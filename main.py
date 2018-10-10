@@ -4,6 +4,7 @@ import requests,logging,json
 import os
 from bs4 import BeautifulSoup
 
+
 #日志模块
 logger = logging.getLogger(__name__)  # 定义对应的程序模块名name，默认是root
 logger.setLevel(level=logging.DEBUG)  # root默认输出等级是INFO
