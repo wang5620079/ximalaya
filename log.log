@@ -202,3 +202,947 @@
 2018-10-10 15:31:39,433 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_45_.m4a url=http://audio.xmcdn.com/group30/M08/69/5D/wKgJXlmpRaujsvKkABqsgqTkSTE363.m4a
 2018-10-10 15:31:39,508 __main__- INFO - done
 2018-10-10 15:31:39,508 __main__- INFO - finish!
+2018-10-11 10:31:44,238 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 10:31:45,377 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_1_.m4a url=http://audio.xmcdn.com/group30/M01/69/4A/wKgJXlmpRLyzTeOPABmxaDA2ztY510.m4a
+2018-10-11 10:31:45,377 __main__- ERROR - 'str' object has no attribute 'decode'
+2018-10-11 10:31:45,377 __main__- INFO - done
+2018-10-11 10:31:45,378 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_2_.m4a url=http://audio.xmcdn.com/group30/M05/69/4A/wKgJXlmpRL6zFjjIABjNz2LRbQw575.m4a
+2018-10-11 10:31:45,378 __main__- ERROR - 'str' object has no attribute 'decode'
+2018-10-11 10:31:45,378 __main__- INFO - done
+2018-10-11 10:31:45,378 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_5_.m4a url=http://audio.xmcdn.com/group30/M05/69/4C/wKgJXlmpRMbgJNUsABNsaj-mBwg346.m4a
+2018-10-11 10:31:45,378 __main__- ERROR - 'str' object has no attribute 'decode'
+2018-10-11 10:31:45,378 __main__- INFO - done
+2018-10-11 10:31:45,378 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_6_.m4a url=http://audio.xmcdn.com/group30/M05/69/4E/wKgJXlmpRMzgcTipABo5-DIeVY4789.m4a
+2018-10-11 10:31:45,378 __main__- ERROR - 'str' object has no attribute 'decode'
+2018-10-11 10:31:45,378 __main__- INFO - done
+2018-10-11 10:31:45,378 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_7_.m4a url=http://audio.xmcdn.com/group30/M05/69/50/wKgJXlmpRNSRhRZkACF-e7orYDo615.m4a
+2018-10-11 10:31:45,378 __main__- ERROR - 'str' object has no attribute 'decode'
+2018-10-11 10:31:45,378 __main__- INFO - done
+2018-10-11 10:31:45,379 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_10_.m4a url=http://audio.xmcdn.com/group30/M05/69/55/wKgJXlmpROew27iHACiA88n2UxY692.m4a
+2018-10-11 10:31:45,379 __main__- ERROR - 'str' object has no attribute 'decode'
+2018-10-11 10:31:45,379 __main__- INFO - done
+2018-10-11 10:31:45,379 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_11_.m4a url=http://audio.xmcdn.com/group30/M05/69/56/wKgJXlmpROzQ1p6qACFSbeSLkFA724.m4a
+2018-10-11 10:31:45,379 __main__- ERROR - 'str' object has no attribute 'decode'
+2018-10-11 10:31:45,379 __main__- INFO - done
+2018-10-11 10:31:45,380 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_12_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F4/wKgJnFmpRPvT_ZYqAB9ME2d2Abw854.m4a
+2018-10-11 10:31:45,380 __main__- ERROR - 'str' object has no attribute 'decode'
+2018-10-11 10:31:45,380 __main__- INFO - done
+2018-10-11 10:31:45,380 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_13_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F6/wKgJnFmpRQGxTotkAB4L8y43FtQ863.m4a
+2018-10-11 10:31:45,380 __main__- ERROR - 'str' object has no attribute 'decode'
+2018-10-11 10:31:45,380 __main__- INFO - done
+2018-10-11 10:31:45,381 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_14_.m4a url=http://audio.xmcdn.com/group32/M08/FC/78/wKgJS1mpRQWT1RFlAB4INTCMHsg360.m4a
+2018-10-11 10:31:45,381 __main__- ERROR - 'str' object has no attribute 'decode'
+2018-10-11 10:31:45,381 __main__- INFO - done
+2018-10-11 10:31:45,381 __main__- INFO - finish!
+2018-10-11 10:34:29,158 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 10:34:29,640 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_1_.m4a url=http://audio.xmcdn.com/group30/M01/69/4A/wKgJXlmpRLyzTeOPABmxaDA2ztY510.m4a
+2018-10-11 10:34:29,667 __main__- ERROR - module 'os' has no attribute 'os'
+2018-10-11 10:34:29,667 __main__- INFO - done
+2018-10-11 10:34:29,667 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_2_.m4a url=http://audio.xmcdn.com/group30/M05/69/4A/wKgJXlmpRL6zFjjIABjNz2LRbQw575.m4a
+2018-10-11 10:34:29,667 __main__- ERROR - module 'os' has no attribute 'os'
+2018-10-11 10:34:29,668 __main__- INFO - done
+2018-10-11 10:34:29,668 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_5_.m4a url=http://audio.xmcdn.com/group30/M05/69/4C/wKgJXlmpRMbgJNUsABNsaj-mBwg346.m4a
+2018-10-11 10:34:29,668 __main__- ERROR - module 'os' has no attribute 'os'
+2018-10-11 10:34:29,668 __main__- INFO - done
+2018-10-11 10:34:29,668 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_6_.m4a url=http://audio.xmcdn.com/group30/M05/69/4E/wKgJXlmpRMzgcTipABo5-DIeVY4789.m4a
+2018-10-11 10:34:29,668 __main__- ERROR - module 'os' has no attribute 'os'
+2018-10-11 10:34:29,668 __main__- INFO - done
+2018-10-11 10:34:29,668 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_7_.m4a url=http://audio.xmcdn.com/group30/M05/69/50/wKgJXlmpRNSRhRZkACF-e7orYDo615.m4a
+2018-10-11 10:34:29,668 __main__- ERROR - module 'os' has no attribute 'os'
+2018-10-11 10:34:29,668 __main__- INFO - done
+2018-10-11 10:34:29,668 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_10_.m4a url=http://audio.xmcdn.com/group30/M05/69/55/wKgJXlmpROew27iHACiA88n2UxY692.m4a
+2018-10-11 10:34:29,668 __main__- ERROR - module 'os' has no attribute 'os'
+2018-10-11 10:34:29,669 __main__- INFO - done
+2018-10-11 10:34:29,669 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_11_.m4a url=http://audio.xmcdn.com/group30/M05/69/56/wKgJXlmpROzQ1p6qACFSbeSLkFA724.m4a
+2018-10-11 10:34:29,669 __main__- ERROR - module 'os' has no attribute 'os'
+2018-10-11 10:34:29,669 __main__- INFO - done
+2018-10-11 10:34:29,669 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_12_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F4/wKgJnFmpRPvT_ZYqAB9ME2d2Abw854.m4a
+2018-10-11 10:34:29,669 __main__- ERROR - module 'os' has no attribute 'os'
+2018-10-11 10:34:29,669 __main__- INFO - done
+2018-10-11 10:34:29,669 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_13_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F6/wKgJnFmpRQGxTotkAB4L8y43FtQ863.m4a
+2018-10-11 10:34:29,669 __main__- ERROR - module 'os' has no attribute 'os'
+2018-10-11 10:34:29,669 __main__- INFO - done
+2018-10-11 10:34:29,669 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_14_.m4a url=http://audio.xmcdn.com/group32/M08/FC/78/wKgJS1mpRQWT1RFlAB4INTCMHsg360.m4a
+2018-10-11 10:34:29,669 __main__- ERROR - module 'os' has no attribute 'os'
+2018-10-11 10:34:29,669 __main__- INFO - done
+2018-10-11 10:34:29,670 __main__- INFO - finish!
+2018-10-11 10:34:44,328 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 10:34:45,011 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_1_.m4a url=http://audio.xmcdn.com/group30/M01/69/4A/wKgJXlmpRLyzTeOPABmxaDA2ztY510.m4a
+2018-10-11 10:34:45,012 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:34:45,012 __main__- INFO - done
+2018-10-11 10:34:45,012 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_2_.m4a url=http://audio.xmcdn.com/group30/M05/69/4A/wKgJXlmpRL6zFjjIABjNz2LRbQw575.m4a
+2018-10-11 10:34:45,012 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:34:45,012 __main__- INFO - done
+2018-10-11 10:34:45,012 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_5_.m4a url=http://audio.xmcdn.com/group30/M05/69/4C/wKgJXlmpRMbgJNUsABNsaj-mBwg346.m4a
+2018-10-11 10:34:45,013 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:34:45,013 __main__- INFO - done
+2018-10-11 10:34:45,013 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_6_.m4a url=http://audio.xmcdn.com/group30/M05/69/4E/wKgJXlmpRMzgcTipABo5-DIeVY4789.m4a
+2018-10-11 10:34:45,013 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:34:45,013 __main__- INFO - done
+2018-10-11 10:34:45,014 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_7_.m4a url=http://audio.xmcdn.com/group30/M05/69/50/wKgJXlmpRNSRhRZkACF-e7orYDo615.m4a
+2018-10-11 10:34:45,014 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:34:45,014 __main__- INFO - done
+2018-10-11 10:34:45,014 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_10_.m4a url=http://audio.xmcdn.com/group30/M05/69/55/wKgJXlmpROew27iHACiA88n2UxY692.m4a
+2018-10-11 10:34:45,014 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:34:45,014 __main__- INFO - done
+2018-10-11 10:34:45,014 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_11_.m4a url=http://audio.xmcdn.com/group30/M05/69/56/wKgJXlmpROzQ1p6qACFSbeSLkFA724.m4a
+2018-10-11 10:34:45,018 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:34:45,018 __main__- INFO - done
+2018-10-11 10:34:45,018 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_12_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F4/wKgJnFmpRPvT_ZYqAB9ME2d2Abw854.m4a
+2018-10-11 10:34:45,018 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:34:45,018 __main__- INFO - done
+2018-10-11 10:34:45,018 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_13_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F6/wKgJnFmpRQGxTotkAB4L8y43FtQ863.m4a
+2018-10-11 10:34:45,018 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:34:45,019 __main__- INFO - done
+2018-10-11 10:34:45,019 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_14_.m4a url=http://audio.xmcdn.com/group32/M08/FC/78/wKgJS1mpRQWT1RFlAB4INTCMHsg360.m4a
+2018-10-11 10:34:45,019 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:34:45,019 __main__- INFO - done
+2018-10-11 10:34:45,019 __main__- INFO - finish!
+2018-10-11 10:43:03,753 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 10:43:04,850 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_1_.m4a url=http://audio.xmcdn.com/group30/M01/69/4A/wKgJXlmpRLyzTeOPABmxaDA2ztY510.m4a
+2018-10-11 10:43:04,851 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:43:04,851 __main__- INFO - done
+2018-10-11 10:43:04,851 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_2_.m4a url=http://audio.xmcdn.com/group30/M05/69/4A/wKgJXlmpRL6zFjjIABjNz2LRbQw575.m4a
+2018-10-11 10:43:04,851 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:43:04,851 __main__- INFO - done
+2018-10-11 10:43:04,851 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_5_.m4a url=http://audio.xmcdn.com/group30/M05/69/4C/wKgJXlmpRMbgJNUsABNsaj-mBwg346.m4a
+2018-10-11 10:43:04,851 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:43:04,851 __main__- INFO - done
+2018-10-11 10:43:04,852 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_6_.m4a url=http://audio.xmcdn.com/group30/M05/69/4E/wKgJXlmpRMzgcTipABo5-DIeVY4789.m4a
+2018-10-11 10:43:04,852 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:43:04,852 __main__- INFO - done
+2018-10-11 10:43:04,852 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_7_.m4a url=http://audio.xmcdn.com/group30/M05/69/50/wKgJXlmpRNSRhRZkACF-e7orYDo615.m4a
+2018-10-11 10:43:04,852 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:43:04,852 __main__- INFO - done
+2018-10-11 10:43:04,852 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_10_.m4a url=http://audio.xmcdn.com/group30/M05/69/55/wKgJXlmpROew27iHACiA88n2UxY692.m4a
+2018-10-11 10:43:04,852 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:43:04,852 __main__- INFO - done
+2018-10-11 10:43:04,852 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_11_.m4a url=http://audio.xmcdn.com/group30/M05/69/56/wKgJXlmpROzQ1p6qACFSbeSLkFA724.m4a
+2018-10-11 10:43:04,852 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:43:04,852 __main__- INFO - done
+2018-10-11 10:43:04,852 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_12_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F4/wKgJnFmpRPvT_ZYqAB9ME2d2Abw854.m4a
+2018-10-11 10:43:04,853 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:43:04,853 __main__- INFO - done
+2018-10-11 10:43:04,853 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_13_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F6/wKgJnFmpRQGxTotkAB4L8y43FtQ863.m4a
+2018-10-11 10:43:04,853 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:43:04,853 __main__- INFO - done
+2018-10-11 10:43:04,853 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_14_.m4a url=http://audio.xmcdn.com/group32/M08/FC/78/wKgJS1mpRQWT1RFlAB4INTCMHsg360.m4a
+2018-10-11 10:43:04,853 __main__- ERROR - invalid cmd type (<class 'bytes'>, expected string)
+2018-10-11 10:43:04,853 __main__- INFO - done
+2018-10-11 10:43:04,853 __main__- INFO - finish!
+2018-10-11 10:45:28,072 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 10:45:29,083 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_1_.m4a url=http://audio.xmcdn.com/group30/M01/69/4A/wKgJXlmpRLyzTeOPABmxaDA2ztY510.m4a
+2018-10-11 10:45:29,092 __main__- INFO - done
+2018-10-11 10:45:29,092 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_2_.m4a url=http://audio.xmcdn.com/group30/M05/69/4A/wKgJXlmpRL6zFjjIABjNz2LRbQw575.m4a
+2018-10-11 10:45:29,097 __main__- INFO - done
+2018-10-11 10:45:29,097 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_5_.m4a url=http://audio.xmcdn.com/group30/M05/69/4C/wKgJXlmpRMbgJNUsABNsaj-mBwg346.m4a
+2018-10-11 10:45:29,103 __main__- INFO - done
+2018-10-11 10:45:29,104 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_6_.m4a url=http://audio.xmcdn.com/group30/M05/69/4E/wKgJXlmpRMzgcTipABo5-DIeVY4789.m4a
+2018-10-11 10:45:29,109 __main__- INFO - done
+2018-10-11 10:45:29,109 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_7_.m4a url=http://audio.xmcdn.com/group30/M05/69/50/wKgJXlmpRNSRhRZkACF-e7orYDo615.m4a
+2018-10-11 10:45:29,116 __main__- INFO - done
+2018-10-11 10:45:29,116 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_10_.m4a url=http://audio.xmcdn.com/group30/M05/69/55/wKgJXlmpROew27iHACiA88n2UxY692.m4a
+2018-10-11 10:45:29,123 __main__- INFO - done
+2018-10-11 10:45:29,124 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_11_.m4a url=http://audio.xmcdn.com/group30/M05/69/56/wKgJXlmpROzQ1p6qACFSbeSLkFA724.m4a
+2018-10-11 10:45:29,135 __main__- INFO - done
+2018-10-11 10:45:29,138 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_12_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F4/wKgJnFmpRPvT_ZYqAB9ME2d2Abw854.m4a
+2018-10-11 10:45:29,152 __main__- INFO - done
+2018-10-11 10:45:29,152 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_13_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F6/wKgJnFmpRQGxTotkAB4L8y43FtQ863.m4a
+2018-10-11 10:45:29,171 __main__- INFO - done
+2018-10-11 10:45:29,171 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_14_.m4a url=http://audio.xmcdn.com/group32/M08/FC/78/wKgJS1mpRQWT1RFlAB4INTCMHsg360.m4a
+2018-10-11 10:45:29,175 __main__- INFO - done
+2018-10-11 10:45:29,176 __main__- INFO - finish!
+2018-10-11 10:45:46,869 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 10:45:47,158 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_1_.m4a url=http://audio.xmcdn.com/group30/M01/69/4A/wKgJXlmpRLyzTeOPABmxaDA2ztY510.m4a
+2018-10-11 10:45:47,158 __main__- ERROR - 'utf-8' codec can't decode byte 0xca in position 19: invalid continuation byte
+2018-10-11 10:45:47,159 __main__- INFO - done
+2018-10-11 10:45:47,159 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_2_.m4a url=http://audio.xmcdn.com/group30/M05/69/4A/wKgJXlmpRL6zFjjIABjNz2LRbQw575.m4a
+2018-10-11 10:45:47,159 __main__- ERROR - 'utf-8' codec can't decode byte 0xca in position 19: invalid continuation byte
+2018-10-11 10:45:47,159 __main__- INFO - done
+2018-10-11 10:45:47,159 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_5_.m4a url=http://audio.xmcdn.com/group30/M05/69/4C/wKgJXlmpRMbgJNUsABNsaj-mBwg346.m4a
+2018-10-11 10:45:47,159 __main__- ERROR - 'utf-8' codec can't decode byte 0xca in position 19: invalid continuation byte
+2018-10-11 10:45:47,159 __main__- INFO - done
+2018-10-11 10:45:47,159 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_6_.m4a url=http://audio.xmcdn.com/group30/M05/69/4E/wKgJXlmpRMzgcTipABo5-DIeVY4789.m4a
+2018-10-11 10:45:47,160 __main__- ERROR - 'utf-8' codec can't decode byte 0xca in position 19: invalid continuation byte
+2018-10-11 10:45:47,160 __main__- INFO - done
+2018-10-11 10:45:47,160 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_7_.m4a url=http://audio.xmcdn.com/group30/M05/69/50/wKgJXlmpRNSRhRZkACF-e7orYDo615.m4a
+2018-10-11 10:45:47,160 __main__- ERROR - 'utf-8' codec can't decode byte 0xca in position 19: invalid continuation byte
+2018-10-11 10:45:47,160 __main__- INFO - done
+2018-10-11 10:45:47,160 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_10_.m4a url=http://audio.xmcdn.com/group30/M05/69/55/wKgJXlmpROew27iHACiA88n2UxY692.m4a
+2018-10-11 10:45:47,160 __main__- ERROR - 'utf-8' codec can't decode byte 0xca in position 19: invalid continuation byte
+2018-10-11 10:45:47,160 __main__- INFO - done
+2018-10-11 10:45:47,160 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_11_.m4a url=http://audio.xmcdn.com/group30/M05/69/56/wKgJXlmpROzQ1p6qACFSbeSLkFA724.m4a
+2018-10-11 10:45:47,160 __main__- ERROR - 'utf-8' codec can't decode byte 0xca in position 19: invalid continuation byte
+2018-10-11 10:45:47,160 __main__- INFO - done
+2018-10-11 10:45:47,160 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_12_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F4/wKgJnFmpRPvT_ZYqAB9ME2d2Abw854.m4a
+2018-10-11 10:45:47,161 __main__- ERROR - 'utf-8' codec can't decode byte 0xca in position 19: invalid continuation byte
+2018-10-11 10:45:47,161 __main__- INFO - done
+2018-10-11 10:45:47,161 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_13_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F6/wKgJnFmpRQGxTotkAB4L8y43FtQ863.m4a
+2018-10-11 10:45:47,161 __main__- ERROR - 'utf-8' codec can't decode byte 0xca in position 19: invalid continuation byte
+2018-10-11 10:45:47,161 __main__- INFO - done
+2018-10-11 10:45:47,161 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_14_.m4a url=http://audio.xmcdn.com/group32/M08/FC/78/wKgJS1mpRQWT1RFlAB4INTCMHsg360.m4a
+2018-10-11 10:45:47,161 __main__- ERROR - 'utf-8' codec can't decode byte 0xca in position 19: invalid continuation byte
+2018-10-11 10:45:47,161 __main__- INFO - done
+2018-10-11 10:45:47,161 __main__- INFO - finish!
+2018-10-11 10:46:45,447 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 10:46:46,019 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_1_.m4a url=http://audio.xmcdn.com/group30/M01/69/4A/wKgJXlmpRLyzTeOPABmxaDA2ztY510.m4a
+2018-10-11 10:46:46,031 __main__- INFO - done
+2018-10-11 10:46:46,032 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_2_.m4a url=http://audio.xmcdn.com/group30/M05/69/4A/wKgJXlmpRL6zFjjIABjNz2LRbQw575.m4a
+2018-10-11 10:46:46,039 __main__- INFO - done
+2018-10-11 10:46:46,040 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_5_.m4a url=http://audio.xmcdn.com/group30/M05/69/4C/wKgJXlmpRMbgJNUsABNsaj-mBwg346.m4a
+2018-10-11 10:46:46,052 __main__- INFO - done
+2018-10-11 10:46:46,053 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_6_.m4a url=http://audio.xmcdn.com/group30/M05/69/4E/wKgJXlmpRMzgcTipABo5-DIeVY4789.m4a
+2018-10-11 10:46:46,071 __main__- INFO - done
+2018-10-11 10:46:46,072 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_7_.m4a url=http://audio.xmcdn.com/group30/M05/69/50/wKgJXlmpRNSRhRZkACF-e7orYDo615.m4a
+2018-10-11 10:46:46,108 __main__- INFO - done
+2018-10-11 10:46:46,110 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_10_.m4a url=http://audio.xmcdn.com/group30/M05/69/55/wKgJXlmpROew27iHACiA88n2UxY692.m4a
+2018-10-11 10:46:46,122 __main__- INFO - done
+2018-10-11 10:46:46,123 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_11_.m4a url=http://audio.xmcdn.com/group30/M05/69/56/wKgJXlmpROzQ1p6qACFSbeSLkFA724.m4a
+2018-10-11 10:46:46,148 __main__- INFO - done
+2018-10-11 10:46:46,149 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_12_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F4/wKgJnFmpRPvT_ZYqAB9ME2d2Abw854.m4a
+2018-10-11 10:46:46,160 __main__- INFO - done
+2018-10-11 10:46:46,161 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_13_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F6/wKgJnFmpRQGxTotkAB4L8y43FtQ863.m4a
+2018-10-11 10:46:46,174 __main__- INFO - done
+2018-10-11 10:46:46,176 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_14_.m4a url=http://audio.xmcdn.com/group32/M08/FC/78/wKgJS1mpRQWT1RFlAB4INTCMHsg360.m4a
+2018-10-11 10:46:46,187 __main__- INFO - done
+2018-10-11 10:46:46,189 __main__- INFO - finish!
+2018-10-11 10:49:58,756 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 10:49:59,104 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_1_.m4a url=http://audio.xmcdn.com/group30/M01/69/4A/wKgJXlmpRLyzTeOPABmxaDA2ztY510.m4a
+2018-10-11 10:49:59,130 __main__- INFO - done
+2018-10-11 10:49:59,131 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_2_.m4a url=http://audio.xmcdn.com/group30/M05/69/4A/wKgJXlmpRL6zFjjIABjNz2LRbQw575.m4a
+2018-10-11 10:49:59,142 __main__- INFO - done
+2018-10-11 10:49:59,142 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_5_.m4a url=http://audio.xmcdn.com/group30/M05/69/4C/wKgJXlmpRMbgJNUsABNsaj-mBwg346.m4a
+2018-10-11 10:49:59,165 __main__- INFO - done
+2018-10-11 10:49:59,166 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_6_.m4a url=http://audio.xmcdn.com/group30/M05/69/4E/wKgJXlmpRMzgcTipABo5-DIeVY4789.m4a
+2018-10-11 10:49:59,181 __main__- INFO - done
+2018-10-11 10:49:59,186 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_7_.m4a url=http://audio.xmcdn.com/group30/M05/69/50/wKgJXlmpRNSRhRZkACF-e7orYDo615.m4a
+2018-10-11 10:49:59,206 __main__- INFO - done
+2018-10-11 10:49:59,207 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_10_.m4a url=http://audio.xmcdn.com/group30/M05/69/55/wKgJXlmpROew27iHACiA88n2UxY692.m4a
+2018-10-11 10:49:59,260 __main__- INFO - done
+2018-10-11 10:49:59,264 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_11_.m4a url=http://audio.xmcdn.com/group30/M05/69/56/wKgJXlmpROzQ1p6qACFSbeSLkFA724.m4a
+2018-10-11 10:49:59,291 __main__- INFO - done
+2018-10-11 10:49:59,292 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_12_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F4/wKgJnFmpRPvT_ZYqAB9ME2d2Abw854.m4a
+2018-10-11 10:49:59,331 __main__- INFO - done
+2018-10-11 10:49:59,334 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_13_.m4a url=http://audio.xmcdn.com/group32/M08/FC/F6/wKgJnFmpRQGxTotkAB4L8y43FtQ863.m4a
+2018-10-11 10:49:59,376 __main__- INFO - done
+2018-10-11 10:49:59,383 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_14_.m4a url=http://audio.xmcdn.com/group32/M08/FC/78/wKgJS1mpRQWT1RFlAB4INTCMHsg360.m4a
+2018-10-11 10:49:59,422 __main__- INFO - done
+2018-10-11 10:49:59,435 __main__- INFO - finish!
+2018-10-11 11:06:08,352 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 11:06:08,655 __main__- INFO - start download 世界公认经典胎教音乐-高清音质_1_.m4a url=http://audio.xmcdn.com/group30/M01/69/4A/wKgJXlmpRLyzTeOPABmxaDA2ztY510.m4a
+2018-10-11 11:36:48,885 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 11:36:49,271 __main__- INFO - make outdir 宝宝的异想世界系列
+2018-10-11 11:36:49,305 __main__- INFO - cnt=277
+2018-10-11 11:36:49,306 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 11:36:51,178 __main__- INFO - start download 谷村新司 - 童歌 ナラうた カラオケ.m4a url=http://audio.xmcdn.com/group44/M01/3F/80/wKgKjFsrTEvyCe3nAClLjeDfzFE232.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:37:16,136 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 11:37:17,010 __main__- INFO - make outdir 宝宝的异想世界系列
+2018-10-11 11:37:17,042 __main__- INFO - cnt=277
+2018-10-11 11:37:17,042 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 11:37:18,669 __main__- INFO - start download 谷村新司 - 童歌 ナラうた カラオケ.m4a url=http://audio.xmcdn.com/group44/M01/3F/80/wKgKjFsrTEvyCe3nAClLjeDfzFE232.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:37:18,672 __main__- INFO - you-get --debug -O 谷村新司 - 童歌 ナラうた カラオケ.m4a http://audio.xmcdn.com/group44/M01/3F/80/wKgKjFsrTEvyCe3nAClLjeDfzFE232.m4a
+2018-10-11 11:37:58,463 __main__- INFO - done
+2018-10-11 11:37:58,464 __main__- INFO - start download Mars Lasar - Amy's Lullaby III.m4a url=http://audio.xmcdn.com/group44/M05/35/1C/wKgKkVsffZKSkbuZACAr3sF3cs4147.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:37:58,466 __main__- INFO - you-get --debug -O Mars Lasar - Amy's Lullaby III.m4a http://audio.xmcdn.com/group44/M05/35/1C/wKgKkVsffZKSkbuZACAr3sF3cs4147.m4a
+2018-10-11 11:38:38,408 __main__- INFO - done
+2018-10-11 11:38:38,409 __main__- INFO - start download 魔笛序曲_莫扎特曲_.m4a url=http://audio.xmcdn.com/group43/M07/7B/C5/wKgKklsHgCKSG5DaABDRvF7v9k8276.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:38:38,412 __main__- INFO - you-get --debug -O 魔笛序曲_莫扎特曲_.m4a http://audio.xmcdn.com/group43/M07/7B/C5/wKgKklsHgCKSG5DaABDRvF7v9k8276.m4a
+2018-10-11 11:41:53,366 __main__- INFO - done
+2018-10-11 11:41:53,367 __main__- INFO - start download 天上星星下凡来.m4a url=http://audio.xmcdn.com/group44/M0B/6D/4D/wKgKjFr9IfGjpik8ACDlxSltD84785.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:41:53,372 __main__- INFO - you-get --debug -O 天上星星下凡来.m4a http://audio.xmcdn.com/group44/M0B/6D/4D/wKgKjFr9IfGjpik8ACDlxSltD84785.m4a
+2018-10-11 11:42:42,175 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 11:42:42,178 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 11:42:43,013 __main__- INFO - make outdir 宝宝的异想世界系列
+2018-10-11 11:42:43,055 __main__- INFO - cnt=277
+2018-10-11 11:42:43,056 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 11:42:43,059 __main__- INFO - url=https://www.ximalaya.com/revision/play/album?albumId=364431&pageNum=1&sort=-1&pageSize=277
+2018-10-11 11:42:44,807 __main__- INFO - start download 谷村新司 - 童歌 ナラうた カラオケ.m4a url=http://audio.xmcdn.com/group44/M01/3F/80/wKgKjFsrTEvyCe3nAClLjeDfzFE232.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:42:44,810 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 谷村新司 - 童歌 ナラうた カラオケ.m4a http://audio.xmcdn.com/group44/M01/3F/80/wKgKjFsrTEvyCe3nAClLjeDfzFE232.m4a
+2018-10-11 11:43:20,072 __main__- INFO - done
+2018-10-11 11:43:20,073 __main__- INFO - start download Mars Lasar - Amy's Lullaby III.m4a url=http://audio.xmcdn.com/group44/M05/35/1C/wKgKkVsffZKSkbuZACAr3sF3cs4147.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:43:20,076 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Mars Lasar - Amy's Lullaby III.m4a http://audio.xmcdn.com/group44/M05/35/1C/wKgKkVsffZKSkbuZACAr3sF3cs4147.m4a
+2018-10-11 11:43:55,547 __main__- INFO - done
+2018-10-11 11:43:55,547 __main__- INFO - start download 魔笛序曲_莫扎特曲_.m4a url=http://audio.xmcdn.com/group43/M07/7B/C5/wKgKklsHgCKSG5DaABDRvF7v9k8276.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:43:55,551 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 魔笛序曲_莫扎特曲_.m4a http://audio.xmcdn.com/group43/M07/7B/C5/wKgKklsHgCKSG5DaABDRvF7v9k8276.m4a
+2018-10-11 11:46:41,882 __main__- INFO - done
+2018-10-11 11:46:41,883 __main__- INFO - start download 天上星星下凡来.m4a url=http://audio.xmcdn.com/group44/M0B/6D/4D/wKgKjFr9IfGjpik8ACDlxSltD84785.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:46:41,887 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 天上星星下凡来.m4a http://audio.xmcdn.com/group44/M0B/6D/4D/wKgKjFr9IfGjpik8ACDlxSltD84785.m4a
+2018-10-11 11:54:03,372 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 11:54:03,372 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 11:54:03,825 __main__- INFO - make outdir 宝宝的异想世界系列
+2018-10-11 11:54:03,849 __main__- INFO - cnt=277
+2018-10-11 11:54:03,849 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 11:54:03,850 __main__- INFO - url=https://www.ximalaya.com/revision/play/album?albumId=364431&pageNum=1&sort=-1&pageSize=277
+2018-10-11 11:54:05,417 __main__- INFO - start download 谷村新司 - 童歌 ナラうた カラオケ.m4a url=http://audio.xmcdn.com/group44/M01/3F/80/wKgKjFsrTEvyCe3nAClLjeDfzFE232.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:05,418 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 谷村新司 - 童歌 ナラうた カラオケ.m4a http://audio.xmcdn.com/group44/M01/3F/80/wKgKjFsrTEvyCe3nAClLjeDfzFE232.m4a
+2018-10-11 11:54:05,532 __main__- INFO - done
+2018-10-11 11:54:05,532 __main__- INFO - start download Mars Lasar - Amy's Lullaby III.m4a url=http://audio.xmcdn.com/group44/M05/35/1C/wKgKkVsffZKSkbuZACAr3sF3cs4147.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:05,532 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Mars Lasar - Amy's Lullaby III.m4a http://audio.xmcdn.com/group44/M05/35/1C/wKgKkVsffZKSkbuZACAr3sF3cs4147.m4a
+2018-10-11 11:54:05,595 __main__- INFO - done
+2018-10-11 11:54:05,595 __main__- INFO - start download 魔笛序曲_莫扎特曲_.m4a url=http://audio.xmcdn.com/group43/M07/7B/C5/wKgKklsHgCKSG5DaABDRvF7v9k8276.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:05,595 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 魔笛序曲_莫扎特曲_.m4a http://audio.xmcdn.com/group43/M07/7B/C5/wKgKklsHgCKSG5DaABDRvF7v9k8276.m4a
+2018-10-11 11:54:05,663 __main__- INFO - done
+2018-10-11 11:54:05,663 __main__- INFO - start download 天上星星下凡来.m4a url=http://audio.xmcdn.com/group44/M0B/6D/4D/wKgKjFr9IfGjpik8ACDlxSltD84785.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:05,663 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 天上星星下凡来.m4a http://audio.xmcdn.com/group44/M0B/6D/4D/wKgKjFr9IfGjpik8ACDlxSltD84785.m4a
+2018-10-11 11:54:05,838 __main__- INFO - done
+2018-10-11 11:54:05,838 __main__- INFO - start download 宝贝的歌.m4a url=http://audio.xmcdn.com/group40/M09/79/30/wKgJVFrezYDj47L_ACIXMbpL11o680.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:05,838 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 宝贝的歌.m4a http://audio.xmcdn.com/group40/M09/79/30/wKgJVFrezYDj47L_ACIXMbpL11o680.m4a
+2018-10-11 11:54:05,966 __main__- INFO - done
+2018-10-11 11:54:05,966 __main__- INFO - start download Chopin - 前奏曲 No.15 雨滴.m4a url=http://audio.xmcdn.com/group41/M09/17/7F/wKgJ8lrW6M-xM-3hACjh089dO1c523.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:05,967 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Chopin - 前奏曲 No.15 雨滴.m4a http://audio.xmcdn.com/group41/M09/17/7F/wKgJ8lrW6M-xM-3hACjh089dO1c523.m4a
+2018-10-11 11:54:06,080 __main__- INFO - done
+2018-10-11 11:54:06,080 __main__- INFO - start download Raimond Lap - Moonlight Sonata.m4a url=http://audio.xmcdn.com/group40/M02/5A/7F/wKgJT1rQazWBsL6KABsappKubvY050.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:06,080 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Moonlight Sonata.m4a http://audio.xmcdn.com/group40/M02/5A/7F/wKgJT1rQazWBsL6KABsappKubvY050.m4a
+2018-10-11 11:54:06,163 __main__- INFO - done
+2018-10-11 11:54:06,163 __main__- INFO - start download 静寂.m4a url=http://audio.xmcdn.com/group38/M00/A6/8B/wKgJolpoXkbCOmstAE5cknK3XNc447.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:06,163 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 静寂.m4a http://audio.xmcdn.com/group38/M00/A6/8B/wKgJolpoXkbCOmstAE5cknK3XNc447.m4a
+2018-10-11 11:54:06,246 __main__- INFO - done
+2018-10-11 11:54:06,246 __main__- INFO - start download Morning In The Meadow.m4a url=http://audio.xmcdn.com/group39/M04/A6/75/wKgJn1poXOeyN7_KACXjTjWmqB0682.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:06,246 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Morning In The Meadow.m4a http://audio.xmcdn.com/group39/M04/A6/75/wKgJn1poXOeyN7_KACXjTjWmqB0682.m4a
+2018-10-11 11:54:06,311 __main__- INFO - done
+2018-10-11 11:54:06,311 __main__- INFO - start download 《星光夜语》周志宏.m4a url=http://audio.xmcdn.com/group25/M09/80/4A/wKgJMVihIQqBfm5jABwejWzItVg373.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:06,311 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 《星光夜语》周志宏.m4a http://audio.xmcdn.com/group25/M09/80/4A/wKgJMVihIQqBfm5jABwejWzItVg373.m4a
+2018-10-11 11:54:06,376 __main__- INFO - done
+2018-10-11 11:54:06,376 __main__- INFO - start download 《耶诞铃声》周志宏.m4a url=http://audio.xmcdn.com/group22/M03/CA/A3/wKgJLlhTbXmDjcvKAELZb2OjkNU967.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:06,376 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 《耶诞铃声》周志宏.m4a http://audio.xmcdn.com/group22/M03/CA/A3/wKgJLlhTbXmDjcvKAELZb2OjkNU967.m4a
+2018-10-11 11:54:06,494 __main__- INFO - done
+2018-10-11 11:54:06,496 __main__- INFO - start download Always with me_口琴版_.m4a url=http://audio.xmcdn.com/group37/M00/23/A3/wKgJoVpTQGmAe207ABDAau3OC4Q750.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:06,497 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Always with me_口琴版_.m4a http://audio.xmcdn.com/group37/M00/23/A3/wKgJoVpTQGmAe207ABDAau3OC4Q750.m4a
+2018-10-11 11:54:06,794 __main__- INFO - done
+2018-10-11 11:54:06,795 __main__- INFO - start download 子守呗.m4a url=http://audio.xmcdn.com/group36/M02/BC/FF/wKgJUlpA0D-jNGR1ABylqSMAA7E078.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:06,795 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 子守呗.m4a http://audio.xmcdn.com/group36/M02/BC/FF/wKgJUlpA0D-jNGR1ABylqSMAA7E078.m4a
+2018-10-11 11:54:06,893 __main__- INFO - done
+2018-10-11 11:54:06,893 __main__- INFO - start download Moody Afternoon.m4a url=http://audio.xmcdn.com/group36/M04/4F/9E/wKgJUlouV42xC4R-AF5vH6vsbac345.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:06,893 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Moody Afternoon.m4a http://audio.xmcdn.com/group36/M04/4F/9E/wKgJUlouV42xC4R-AF5vH6vsbac345.m4a
+2018-10-11 11:54:06,968 __main__- INFO - done
+2018-10-11 11:54:06,973 __main__- INFO - start download Along Peaceful Shores.m4a url=http://audio.xmcdn.com/group35/M08/3E/78/wKgJnFoX86Tz1xeSACxXSRCKsj0373.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:06,974 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Along Peaceful Shores.m4a http://audio.xmcdn.com/group35/M08/3E/78/wKgJnFoX86Tz1xeSACxXSRCKsj0373.m4a
+2018-10-11 11:54:07,074 __main__- INFO - done
+2018-10-11 11:54:07,075 __main__- INFO - start download hideyuki hashimoto - tsuki.m4a url=http://audio.xmcdn.com/group34/M0B/3B/2A/wKgJYVnxrOPz53ZkABEvuWFah8M407.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,075 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O hideyuki hashimoto - tsuki.m4a http://audio.xmcdn.com/group34/M0B/3B/2A/wKgJYVnxrOPz53ZkABEvuWFah8M407.m4a
+2018-10-11 11:54:07,139 __main__- INFO - done
+2018-10-11 11:54:07,140 __main__- INFO - start download hideyuki hashimoto - kara kara.m4a url=http://audio.xmcdn.com/group34/M07/5F/04/wKgJYVngesejhjWpAAuSIIJRGfE487.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,141 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O hideyuki hashimoto - kara kara.m4a http://audio.xmcdn.com/group34/M07/5F/04/wKgJYVngesejhjWpAAuSIIJRGfE487.m4a
+2018-10-11 11:54:07,206 __main__- INFO - done
+2018-10-11 11:54:07,206 __main__- INFO - start download 音乐问答 Melodic questions and answers.m4a url=http://audio.xmcdn.com/group32/M08/9B/0E/wKgJnFm58hPy4H8IACD9Qb3Kp3Y214.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,206 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 音乐问答 Melodic questions and answers.m4a http://audio.xmcdn.com/group32/M08/9B/0E/wKgJnFm58hPy4H8IACD9Qb3Kp3Y214.m4a
+2018-10-11 11:54:07,279 __main__- INFO - done
+2018-10-11 11:54:07,279 __main__- INFO - start download 可爱的雷鬼旋律 Baby’s lovely reggae.m4a url=http://audio.xmcdn.com/group31/M00/A9/9A/wKgJX1mua83jzlo9ABmA9CMm8r0169.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,280 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 可爱的雷鬼旋律 Baby’s lovely reggae.m4a http://audio.xmcdn.com/group31/M00/A9/9A/wKgJX1mua83jzlo9ABmA9CMm8r0169.m4a
+2018-10-11 11:54:07,333 __main__- INFO - done
+2018-10-11 11:54:07,333 __main__- INFO - start download  Lovely Little Night Music.m4a url=http://audio.xmcdn.com/group15/M06/7C/5A/wKgDZVYOmjrgAQ05ABomT2i1BEY886.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,333 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O  Lovely Little Night Music.m4a http://audio.xmcdn.com/group15/M06/7C/5A/wKgDZVYOmjrgAQ05ABomT2i1BEY886.m4a
+2018-10-11 11:54:07,391 __main__- INFO - done
+2018-10-11 11:54:07,391 __main__- INFO - start download hideyuki hashimoto - yura yura.m4a url=http://audio.xmcdn.com/group30/M05/F0/5F/wKgJXll-25bhbcaeAA2-qlvRavE403.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,391 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O hideyuki hashimoto - yura yura.m4a http://audio.xmcdn.com/group30/M05/F0/5F/wKgJXll-25bhbcaeAA2-qlvRavE403.m4a
+2018-10-11 11:54:07,462 __main__- INFO - done
+2018-10-11 11:54:07,462 __main__- INFO - start download いろのみ - 雫.m4a url=http://audio.xmcdn.com/group31/M0B/C2/E6/wKgJSVl610ayzE_ZADPrFmCZXLs361.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,462 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O いろのみ - 雫.m4a http://audio.xmcdn.com/group31/M0B/C2/E6/wKgJSVl610ayzE_ZADPrFmCZXLs361.m4a
+2018-10-11 11:54:07,527 __main__- INFO - done
+2018-10-11 11:54:07,527 __main__- INFO - start download hideyuki hashimoto - ki.m4a url=http://audio.xmcdn.com/group29/M02/FB/BF/wKgJWVljPRnj_Rm-AA6cZd-7iGQ628.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,528 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O hideyuki hashimoto - ki.m4a http://audio.xmcdn.com/group29/M02/FB/BF/wKgJWVljPRnj_Rm-AA6cZd-7iGQ628.m4a
+2018-10-11 11:54:07,578 __main__- INFO - done
+2018-10-11 11:54:07,578 __main__- INFO - start download 第一次听见海 First time I hear the sea.m4a url=http://audio.xmcdn.com/group29/M01/78/B6/wKgJWVlaBpDhezMlACvdaXm1BF8080.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,578 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 第一次听见海 First time I hear the sea.m4a http://audio.xmcdn.com/group29/M01/78/B6/wKgJWVlaBpDhezMlACvdaXm1BF8080.m4a
+2018-10-11 11:54:07,637 __main__- INFO - done
+2018-10-11 11:54:07,638 __main__- INFO - start download 丛林漫步.m4a url=http://audio.xmcdn.com/group28/M09/34/64/wKgJSFlUmDDDQNzoABVfrt5fxwg778.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,638 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 丛林漫步.m4a http://audio.xmcdn.com/group28/M09/34/64/wKgJSFlUmDDDQNzoABVfrt5fxwg778.m4a
+2018-10-11 11:54:07,719 __main__- INFO - done
+2018-10-11 11:54:07,719 __main__- INFO - start download Roberto Cacciapaglia - Michael.m4a url=http://audio.xmcdn.com/group29/M03/B5/BB/wKgJWVlLbaXAFP45ABqcW5PTf0A382.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,719 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Roberto Cacciapaglia - Michael.m4a http://audio.xmcdn.com/group29/M03/B5/BB/wKgJWVlLbaXAFP45ABqcW5PTf0A382.m4a
+2018-10-11 11:54:07,801 __main__- INFO - done
+2018-10-11 11:54:07,801 __main__- INFO - start download The Tide.m4a url=http://audio.xmcdn.com/group28/M07/F9/98/wKgJXFk-XCnCi0SnACPxgYh5Lkc468.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,802 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O The Tide.m4a http://audio.xmcdn.com/group28/M07/F9/98/wKgJXFk-XCnCi0SnACPxgYh5Lkc468.m4a
+2018-10-11 11:54:07,853 __main__- INFO - done
+2018-10-11 11:54:07,853 __main__- INFO - start download 宝宝的笑容 Baby’s smiling face.m4a url=http://audio.xmcdn.com/group28/M06/81/B7/wKgJSFk2UwKjj-cfABdwUdVWgcg502.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,854 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 宝宝的笑容 Baby’s smiling face.m4a http://audio.xmcdn.com/group28/M06/81/B7/wKgJSFk2UwKjj-cfABdwUdVWgcg502.m4a
+2018-10-11 11:54:07,903 __main__- INFO - done
+2018-10-11 11:54:07,903 __main__- INFO - start download Raimond Lap - She is a mon.m4a url=http://audio.xmcdn.com/group29/M03/2A/07/wKgJXVkxGbzRiSvzABew7FW-0zk255.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:07,903 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - She is a mon.m4a http://audio.xmcdn.com/group29/M03/2A/07/wKgJXVkxGbzRiSvzABew7FW-0zk255.m4a
+2018-10-11 11:54:08,101 __main__- INFO - done
+2018-10-11 11:54:08,102 __main__- INFO - start download FJORDNE - after you.m4a url=http://audio.xmcdn.com/group28/M00/2B/30/wKgJSFklJO2wOA9aACo2gL5ctG0387.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:08,102 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O FJORDNE - after you.m4a http://audio.xmcdn.com/group28/M00/2B/30/wKgJSFklJO2wOA9aACo2gL5ctG0387.m4a
+2018-10-11 11:54:08,170 __main__- INFO - done
+2018-10-11 11:54:08,170 __main__- INFO - start download いろのみ - 夕凪.m4a url=http://audio.xmcdn.com/group29/M01/05/B4/wKgJXVkcBwezsQfDACO1TcDuueY240.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:08,170 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O いろのみ - 夕凪.m4a http://audio.xmcdn.com/group29/M01/05/B4/wKgJXVkcBwezsQfDACO1TcDuueY240.m4a
+2018-10-11 11:54:08,327 __main__- INFO - done
+2018-10-11 11:54:08,327 __main__- INFO - start download Jeff Koz,Dave Koz - Golden Slumber.m4a url=http://audio.xmcdn.com/group27/M09/CE/52/wKgJR1kH83Pzp3llAB7CCPKmBMM432.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:08,327 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Jeff Koz,Dave Koz - Golden Slumber.m4a http://audio.xmcdn.com/group27/M09/CE/52/wKgJR1kH83Pzp3llAB7CCPKmBMM432.m4a
+2018-10-11 11:54:08,489 __main__- INFO - done
+2018-10-11 11:54:08,490 __main__- INFO - start download I. Allegro.m4a url=http://audio.xmcdn.com/group27/M09/47/61/wKgJW1j9zaLDRCnlAFhDGWvgc_4480.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:08,490 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O I. Allegro.m4a http://audio.xmcdn.com/group27/M09/47/61/wKgJW1j9zaLDRCnlAFhDGWvgc_4480.m4a
+2018-10-11 11:54:08,586 __main__- INFO - done
+2018-10-11 11:54:08,587 __main__- INFO - start download Norman Brown,Dave Koz - You Can Close Your Eyes.m4a url=http://audio.xmcdn.com/group27/M05/F5/DF/wKgJR1j4H-iQ6deFACDYjW34ghE512.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:08,587 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Norman Brown,Dave Koz - You Can Close Your Eyes.m4a http://audio.xmcdn.com/group27/M05/F5/DF/wKgJR1j4H-iQ6deFACDYjW34ghE512.m4a
+2018-10-11 11:54:08,691 __main__- INFO - done
+2018-10-11 11:54:08,692 __main__- INFO - start download Bruce Watson,Dave Koz - Afro Cuban Lullaby.m4a url=http://audio.xmcdn.com/group27/M08/95/C5/wKgJR1jvUADRxwqpAB6HS9p0WHs030.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:08,692 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Bruce Watson,Dave Koz - Afro Cuban Lullaby.m4a http://audio.xmcdn.com/group27/M08/95/C5/wKgJR1jvUADRxwqpAB6HS9p0WHs030.m4a
+2018-10-11 11:54:08,860 __main__- INFO - done
+2018-10-11 11:54:08,860 __main__- INFO - start download Raimond Lap - You can sing along.m4a url=http://audio.xmcdn.com/group27/M05/33/30/wKgJW1jlr9Lx_kaVABvWmV2nhcc044.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:08,860 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - You can sing along.m4a http://audio.xmcdn.com/group27/M05/33/30/wKgJW1jlr9Lx_kaVABvWmV2nhcc044.m4a
+2018-10-11 11:54:08,953 __main__- INFO - done
+2018-10-11 11:54:08,953 __main__- INFO - start download Various Artists - WHY DONT YOU PLAY LOUDER.m4a url=http://audio.xmcdn.com/group27/M05/D9/B0/wKgJR1jczzHCQUVlABh9CcSTR9Y614.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:08,953 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Various Artists - WHY DONT YOU PLAY LOUDER.m4a http://audio.xmcdn.com/group27/M05/D9/B0/wKgJR1jczzHCQUVlABh9CcSTR9Y614.m4a
+2018-10-11 11:54:09,032 __main__- INFO - done
+2018-10-11 11:54:09,032 __main__- INFO - start download Raimond Lap - O yeh, my toys.m4a url=http://audio.xmcdn.com/group27/M09/6D/3D/wKgJW1jSH5uh9ScOAB5T6FAl2DQ192.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:09,032 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - O yeh, my toys.m4a http://audio.xmcdn.com/group27/M09/6D/3D/wKgJW1jSH5uh9ScOAB5T6FAl2DQ192.m4a
+2018-10-11 11:54:09,082 __main__- INFO - done
+2018-10-11 11:54:09,082 __main__- INFO - start download Serenade in G, K.525Eine kleine Nachtmusik- 1. Allegro.m4a url=http://audio.xmcdn.com/group25/M03/F6/0A/wKgJNljGOA6zxcxFAC4zEmna5ZE150.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:09,082 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Serenade in G, K.525Eine kleine Nachtmusik- 1. Allegro.m4a http://audio.xmcdn.com/group25/M03/F6/0A/wKgJNljGOA6zxcxFAC4zEmna5ZE150.m4a
+2018-10-11 11:54:09,179 __main__- INFO - done
+2018-10-11 11:54:09,179 __main__- INFO - start download II. Andante ma non troppo.m4a url=http://audio.xmcdn.com/group19/M06/B7/60/wKgJK1i9ExHyGZawACvLy7K1GSI502.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:09,179 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O II. Andante ma non troppo.m4a http://audio.xmcdn.com/group19/M06/B7/60/wKgJK1i9ExHyGZawACvLy7K1GSI502.m4a
+2018-10-11 11:54:09,246 __main__- INFO - done
+2018-10-11 11:54:09,246 __main__- INFO - start download 天使宝贝.m4a url=http://audio.xmcdn.com/group24/M08/CB/0C/wKgJNVi3nsiQ3ZgyAB4vMH_k1_I798.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:09,246 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 天使宝贝.m4a http://audio.xmcdn.com/group24/M08/CB/0C/wKgJNVi3nsiQ3ZgyAB4vMH_k1_I798.m4a
+2018-10-11 11:54:09,304 __main__- INFO - done
+2018-10-11 11:54:09,304 __main__- INFO - start download 妈咪的爱.m4a url=http://audio.xmcdn.com/group25/M00/A2/93/wKgJNliruQHT3n4WADmo_VWAa5s159.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:09,305 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 妈咪的爱.m4a http://audio.xmcdn.com/group25/M00/A2/93/wKgJNliruQHT3n4WADmo_VWAa5s159.m4a
+2018-10-11 11:54:09,441 __main__- INFO - done
+2018-10-11 11:54:09,441 __main__- INFO - start download Rick Braun,Dave Koz - Somewhere Over the Rainbow.m4a url=http://audio.xmcdn.com/group21/M05/82/64/wKgJKFiic9SThLuRABZFiaId1Xo330.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:09,442 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Rick Braun,Dave Koz - Somewhere Over the Rainbow.m4a http://audio.xmcdn.com/group21/M05/82/64/wKgJKFiic9SThLuRABZFiaId1Xo330.m4a
+2018-10-11 11:54:09,608 __main__- INFO - done
+2018-10-11 11:54:09,609 __main__- INFO - start download 茉莉花.m4a url=http://audio.xmcdn.com/group25/M05/F0/38/wKgJNliG98zgetQfABRhobqpkvw150.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:09,609 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 茉莉花.m4a http://audio.xmcdn.com/group25/M05/F0/38/wKgJNliG98zgetQfABRhobqpkvw150.m4a
+2018-10-11 11:54:09,763 __main__- INFO - done
+2018-10-11 11:54:09,764 __main__- INFO - start download Sundial Dreams.m4a url=http://audio.xmcdn.com/group24/M06/F0/16/wKgJMFiG91TAg1sxACNqaZ8EqG0759.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:09,764 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Sundial Dreams.m4a http://audio.xmcdn.com/group24/M06/F0/16/wKgJMFiG91TAg1sxACNqaZ8EqG0759.m4a
+2018-10-11 11:54:09,967 __main__- INFO - done
+2018-10-11 11:54:09,967 __main__- INFO - start download When You Wish Upon a Star.m4a url=http://audio.xmcdn.com/group23/M02/98/FC/wKgJNFh8LZWB2XULABkFmcLI4hA902.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:09,967 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O When You Wish Upon a Star.m4a http://audio.xmcdn.com/group23/M02/98/FC/wKgJNFh8LZWB2XULABkFmcLI4hA902.m4a
+2018-10-11 11:54:10,036 __main__- INFO - done
+2018-10-11 11:54:10,037 __main__- INFO - start download I play, listen and enjoy.m4a url=http://audio.xmcdn.com/group22/M03/5B/78/wKgJLlhy_fLj6yLJAB4GFeIA2d4969.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:10,037 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O I play, listen and enjoy.m4a http://audio.xmcdn.com/group22/M03/5B/78/wKgJLlhy_fLj6yLJAB4GFeIA2d4969.m4a
+2018-10-11 11:54:10,101 __main__- INFO - done
+2018-10-11 11:54:10,101 __main__- INFO - start download Spring Rain.m4a url=http://audio.xmcdn.com/group22/M00/FF/63/wKgJM1hglRWxSyWEAB1YzrVRmGw829.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:10,102 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Spring Rain.m4a http://audio.xmcdn.com/group22/M00/FF/63/wKgJM1hglRWxSyWEAB1YzrVRmGw829.m4a
+2018-10-11 11:54:10,156 __main__- INFO - done
+2018-10-11 11:54:10,156 __main__- INFO - start download Prenatal Education Music BEBE - 봄날의 햇살처럼.m4a url=http://audio.xmcdn.com/group21/M09/E7/3C/wKgJKFhbOofSP9cOABN1N3PyrOw541.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:10,157 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Prenatal Education Music BEBE - 봄날의 햇살처럼.m4a http://audio.xmcdn.com/group21/M09/E7/3C/wKgJKFhbOofSP9cOABN1N3PyrOw541.m4a
+2018-10-11 11:54:10,235 __main__- INFO - done
+2018-10-11 11:54:10,235 __main__- INFO - start download Prenatal Education Music BEBE - Little Star.m4a url=http://audio.xmcdn.com/group24/M06/70/37/wKgJMFg7xLyB6Nv6ABez25RNEfk233.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:10,235 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Prenatal Education Music BEBE - Little Star.m4a http://audio.xmcdn.com/group24/M06/70/37/wKgJMFg7xLyB6Nv6ABez25RNEfk233.m4a
+2018-10-11 11:54:10,305 __main__- INFO - done
+2018-10-11 11:54:10,305 __main__- INFO - start download 蓝色狂想曲.m4a url=http://audio.xmcdn.com/group23/M00/1B/3D/wKgJL1garwORkmmHABTJ5xlzi1s629.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:10,306 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 蓝色狂想曲.m4a http://audio.xmcdn.com/group23/M00/1B/3D/wKgJL1garwORkmmHABTJ5xlzi1s629.m4a
+2018-10-11 11:54:10,365 __main__- INFO - done
+2018-10-11 11:54:10,366 __main__- INFO - start download D大调小步舞曲.m4a url=http://audio.xmcdn.com/group19/M0B/85/B5/wKgJJlgEewmgctdqAArDFBi0Vyw511.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:10,366 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O D大调小步舞曲.m4a http://audio.xmcdn.com/group19/M0B/85/B5/wKgJJlgEewmgctdqAArDFBi0Vyw511.m4a
+2018-10-11 11:54:10,436 __main__- INFO - done
+2018-10-11 11:54:10,437 __main__- INFO - start download 蓝调乐音.m4a url=http://audio.xmcdn.com/group11/M02/4F/E8/wKgDbVWzudnD-Lj8AB0MUE0oeB0746.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:10,437 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 蓝调乐音.m4a http://audio.xmcdn.com/group11/M02/4F/E8/wKgDbVWzudnD-Lj8AB0MUE0oeB0746.m4a
+2018-10-11 11:54:10,529 __main__- INFO - done
+2018-10-11 11:54:10,529 __main__- INFO - start download 音乐问答.m4a url=http://audio.xmcdn.com/group13/M02/36/D7/wKgDXlWWDV2wZ1I0ACIRWwR27_A083.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:10,530 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 音乐问答.m4a http://audio.xmcdn.com/group13/M02/36/D7/wKgDXlWWDV2wZ1I0ACIRWwR27_A083.m4a
+2018-10-11 11:54:10,612 __main__- INFO - done
+2018-10-11 11:54:10,612 __main__- INFO - start download CD17-雷蒙拉普_Raimond Lap_ - 宝宝的微笑.m4a url=http://audio.xmcdn.com/group7/M05/59/9B/wKgDX1XEDr6huJhfACL32ZlDc0k481.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:10,612 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD17-雷蒙拉普_Raimond Lap_ - 宝宝的微笑.m4a http://audio.xmcdn.com/group7/M05/59/9B/wKgDX1XEDr6huJhfACL32ZlDc0k481.m4a
+2018-10-11 11:54:10,727 __main__- INFO - done
+2018-10-11 11:54:10,727 __main__- INFO - start download CD17-雷蒙拉普_Raimond Lap_ - 鼓和玩具.m4a url=http://audio.xmcdn.com/group9/M07/58/FF/wKgDZlXEDsjQX44cABxAmuYHh70482.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:10,728 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD17-雷蒙拉普_Raimond Lap_ - 鼓和玩具.m4a http://audio.xmcdn.com/group9/M07/58/FF/wKgDZlXEDsjQX44cABxAmuYHh70482.m4a
+2018-10-11 11:54:10,793 __main__- INFO - done
+2018-10-11 11:54:10,793 __main__- INFO - start download CD17-雷蒙拉普_Raimond Lap_ - 风中铃声.m4a url=http://audio.xmcdn.com/group9/M07/58/BE/wKgDYlXEDtPTzc_RABd3xGZbDSo578.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:10,793 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD17-雷蒙拉普_Raimond Lap_ - 风中铃声.m4a http://audio.xmcdn.com/group9/M07/58/BE/wKgDYlXEDtPTzc_RABd3xGZbDSo578.m4a
+2018-10-11 11:54:10,920 __main__- INFO - done
+2018-10-11 11:54:10,920 __main__- INFO - start download CD17-雷蒙拉普_Raimond Lap_ - 宝宝的哭泣.m4a url=http://audio.xmcdn.com/group14/M02/59/33/wKgDY1XED4KicOQxACh5gwoVNmk616.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:10,920 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD17-雷蒙拉普_Raimond Lap_ - 宝宝的哭泣.m4a http://audio.xmcdn.com/group14/M02/59/33/wKgDY1XED4KicOQxACh5gwoVNmk616.m4a
+2018-10-11 11:54:11,000 __main__- INFO - done
+2018-10-11 11:54:11,001 __main__- INFO - start download CD17-雷蒙拉普_Raimond Lap_ - 跟着旋律唱.m4a url=http://audio.xmcdn.com/group8/M07/58/E3/wKgDYFXEDmjg1UJFACZaxT53Cpo951.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:11,002 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD17-雷蒙拉普_Raimond Lap_ - 跟着旋律唱.m4a http://audio.xmcdn.com/group8/M07/58/E3/wKgDYFXEDmjg1UJFACZaxT53Cpo951.m4a
+2018-10-11 11:54:11,058 __main__- INFO - done
+2018-10-11 11:54:11,058 __main__- INFO - start download CD17-雷蒙拉普_Raimond Lap_ - 开心地玩.m4a url=http://audio.xmcdn.com/group10/M08/58/B8/wKgDZ1XEDp2hkTL-AC7FmWLT9l4759.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:11,058 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD17-雷蒙拉普_Raimond Lap_ - 开心地玩.m4a http://audio.xmcdn.com/group10/M08/58/B8/wKgDZ1XEDp2hkTL-AC7FmWLT9l4759.m4a
+2018-10-11 11:54:11,145 __main__- INFO - done
+2018-10-11 11:54:11,145 __main__- INFO - start download CD17-雷蒙拉普_Raimond Lap_ - 宝宝的神奇世界.m4a url=http://audio.xmcdn.com/group9/M07/58/FF/wKgDZlXEDsLShG6JACr3niLGZGU897.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:11,146 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD17-雷蒙拉普_Raimond Lap_ - 宝宝的神奇世界.m4a http://audio.xmcdn.com/group9/M07/58/FF/wKgDZlXEDsLShG6JACr3niLGZGU897.m4a
+2018-10-11 11:54:11,232 __main__- INFO - done
+2018-10-11 11:54:11,232 __main__- INFO - start download CD17-雷蒙拉普_Raimond Lap_ - 从森林中来.m4a url=http://audio.xmcdn.com/group8/M0A/59/26/wKgDYVXEDXXjRgcgACOcI0_B6-I204.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:11,233 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD17-雷蒙拉普_Raimond Lap_ - 从森林中来.m4a http://audio.xmcdn.com/group8/M0A/59/26/wKgDYVXEDXXjRgcgACOcI0_B6-I204.m4a
+2018-10-11 11:54:11,306 __main__- INFO - done
+2018-10-11 11:54:11,306 __main__- INFO - start download CD17-雷蒙拉普_Raimond Lap_ - 宝宝的奇想.m4a url=http://audio.xmcdn.com/group11/M0A/5D/8D/wKgDbVXEDXaA2jTXAB-4Eq5NVmA007.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:11,306 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD17-雷蒙拉普_Raimond Lap_ - 宝宝的奇想.m4a http://audio.xmcdn.com/group11/M0A/5D/8D/wKgDbVXEDXaA2jTXAB-4Eq5NVmA007.m4a
+2018-10-11 11:54:11,372 __main__- INFO - done
+2018-10-11 11:54:11,373 __main__- INFO - start download CD17-雷蒙拉普_Raimond Lap_ - 喔我的宝贝.m4a url=http://audio.xmcdn.com/group9/M06/58/BC/wKgDYlXEDaaQJWCFACXSWvUnDpc653.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:11,373 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD17-雷蒙拉普_Raimond Lap_ - 喔我的宝贝.m4a http://audio.xmcdn.com/group9/M06/58/BC/wKgDYlXEDaaQJWCFACXSWvUnDpc653.m4a
+2018-10-11 11:54:11,472 __main__- INFO - done
+2018-10-11 11:54:11,472 __main__- INFO - start download CD16-雷蒙拉普_Raimond Lap_浦罗高菲夫彼得与狼.m4a url=http://audio.xmcdn.com/group7/M01/49/2B/wKgDWlWsVYPw0oGPABdWDSxn944326.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:11,472 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD16-雷蒙拉普_Raimond Lap_浦罗高菲夫彼得与狼.m4a http://audio.xmcdn.com/group7/M01/49/2B/wKgDWlWsVYPw0oGPABdWDSxn944326.m4a
+2018-10-11 11:54:11,536 __main__- INFO - done
+2018-10-11 11:54:11,536 __main__- INFO - start download CD16-雷蒙拉普_Raimond Lap_布拉姆斯圆舞曲.m4a url=http://audio.xmcdn.com/group10/M00/48/84/wKgDaVWsVfmQxWusAB3kI6fVP30545.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:11,537 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD16-雷蒙拉普_Raimond Lap_布拉姆斯圆舞曲.m4a http://audio.xmcdn.com/group10/M00/48/84/wKgDaVWsVfmQxWusAB3kI6fVP30545.m4a
+2018-10-11 11:54:11,616 __main__- INFO - done
+2018-10-11 11:54:11,617 __main__- INFO - start download CD16-雷蒙拉普_Raimond Lap_鲁宾斯坦F调之旋律.m4a url=http://audio.xmcdn.com/group10/M02/48/84/wKgDZ1WsVOSyxQqlACPcsSnwBZw057.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:11,617 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD16-雷蒙拉普_Raimond Lap_鲁宾斯坦F调之旋律.m4a http://audio.xmcdn.com/group10/M02/48/84/wKgDZ1WsVOSyxQqlACPcsSnwBZw057.m4a
+2018-10-11 11:54:11,704 __main__- INFO - done
+2018-10-11 11:54:11,704 __main__- INFO - start download CD16-雷蒙拉普_Raimond Lap_葛利格山大王的宫殿.m4a url=http://audio.xmcdn.com/group7/M01/49/26/wKgDX1WsVVPwzERCAByHCQAG5a8694.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:11,704 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD16-雷蒙拉普_Raimond Lap_葛利格山大王的宫殿.m4a http://audio.xmcdn.com/group7/M01/49/26/wKgDX1WsVVPwzERCAByHCQAG5a8694.m4a
+2018-10-11 11:54:11,772 __main__- INFO - done
+2018-10-11 11:54:11,772 __main__- INFO - start download CD16-雷蒙拉普_Raimond Lap_李斯特爱之梦.m4a url=http://audio.xmcdn.com/group9/M08/48/6B/wKgDYlWsVYDgWNqWABwHZRI4zls022.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:11,772 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD16-雷蒙拉普_Raimond Lap_李斯特爱之梦.m4a http://audio.xmcdn.com/group9/M08/48/6B/wKgDYlWsVYDgWNqWABwHZRI4zls022.m4a
+2018-10-11 11:54:11,868 __main__- INFO - done
+2018-10-11 11:54:11,868 __main__- INFO - start download CD16-雷蒙拉普_Raimond Lap_比才斗牛勇士之歌.m4a url=http://audio.xmcdn.com/group8/M02/48/AF/wKgDYVWsVdqwsX5kABwh0RaDbxs964.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:11,869 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD16-雷蒙拉普_Raimond Lap_比才斗牛勇士之歌.m4a http://audio.xmcdn.com/group8/M02/48/AF/wKgDYVWsVdqwsX5kABwh0RaDbxs964.m4a
+2018-10-11 11:54:11,954 __main__- INFO - done
+2018-10-11 11:54:11,955 __main__- INFO - start download CD16-雷蒙拉普_Raimond Lap_ 布拉姆斯第五号匈牙利舞曲.m4a url=http://audio.xmcdn.com/group15/M09/49/13/wKgDZVWsVIWCYSW4AB_Vcqdvz-Y426.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:11,955 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD16-雷蒙拉普_Raimond Lap_ 布拉姆斯第五号匈牙利舞曲.m4a http://audio.xmcdn.com/group15/M09/49/13/wKgDZVWsVIWCYSW4AB_Vcqdvz-Y426.m4a
+2018-10-11 11:54:12,014 __main__- INFO - done
+2018-10-11 11:54:12,014 __main__- INFO - start download CD16-雷蒙拉普_Raimond Lap_  圣桑天鹅湖.m4a url=http://audio.xmcdn.com/group8/M08/48/AF/wKgDYVWsVI_A7urfACv_n5pTkMI267.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:12,014 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD16-雷蒙拉普_Raimond Lap_  圣桑天鹅湖.m4a http://audio.xmcdn.com/group8/M08/48/AF/wKgDYVWsVI_A7urfACv_n5pTkMI267.m4a
+2018-10-11 11:54:12,092 __main__- INFO - done
+2018-10-11 11:54:12,092 __main__- INFO - start download CD16-雷蒙拉普_Raimond Lap_ 奥芬巴哈康康舞.m4a url=http://audio.xmcdn.com/group11/M03/48/AC/wKgDa1WsVRvhsX58ACFel7gIE0U335.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:12,093 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD16-雷蒙拉普_Raimond Lap_ 奥芬巴哈康康舞.m4a http://audio.xmcdn.com/group11/M03/48/AC/wKgDa1WsVRvhsX58ACFel7gIE0U335.m4a
+2018-10-11 11:54:12,241 __main__- INFO - done
+2018-10-11 11:54:12,241 __main__- INFO - start download CD16-雷蒙拉普_Raimond Lap_ 海顿惊愕交响曲.m4a url=http://audio.xmcdn.com/group14/M09/48/D7/wKgDZFWsVZTyVNqiACAaWaljbog317.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:12,241 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O CD16-雷蒙拉普_Raimond Lap_ 海顿惊愕交响曲.m4a http://audio.xmcdn.com/group14/M09/48/D7/wKgDZFWsVZTyVNqiACAaWaljbog317.m4a
+2018-10-11 11:54:12,357 __main__- INFO - done
+2018-10-11 11:54:12,358 __main__- INFO - start download Raimond Lap - I play, listen and enjoy.m4a url=http://audio.xmcdn.com/group9/M03/7C/17/wKgDYlYOnoKTP4hZAB4AC1zKMPY970.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:12,358 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - I play, listen and enjoy.m4a http://audio.xmcdn.com/group9/M03/7C/17/wKgDYlYOnoKTP4hZAB4AC1zKMPY970.m4a
+2018-10-11 11:54:12,456 __main__- INFO - done
+2018-10-11 11:54:12,457 __main__- INFO - start download Raimond Lap - Jingle Bells Fantasy.m4a url=http://audio.xmcdn.com/group15/M02/7C/5F/wKgDZVYOnuqzIyv8ABxH8n700E4076.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:12,457 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Jingle Bells Fantasy.m4a http://audio.xmcdn.com/group15/M02/7C/5F/wKgDZVYOnuqzIyv8ABxH8n700E4076.m4a
+2018-10-11 11:54:12,527 __main__- INFO - done
+2018-10-11 11:54:12,528 __main__- INFO - start download Raimond Lap - Lovely Allegro.m4a url=http://audio.xmcdn.com/group8/M05/7C/E3/wKgDYVYOnyuwrt6JABl6pIHSzW8926.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:12,528 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Lovely Allegro.m4a http://audio.xmcdn.com/group8/M05/7C/E3/wKgDYVYOnyuwrt6JABl6pIHSzW8926.m4a
+2018-10-11 11:54:12,616 __main__- INFO - done
+2018-10-11 11:54:12,616 __main__- INFO - start download Raimond Lap - Lovely Baby Piano Concerto No.21.m4a url=http://audio.xmcdn.com/group7/M03/7C/BB/wKgDX1YOn1LS2FbLAByBOGU8LcQ799.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:12,617 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Lovely Baby Piano Concerto No.21.m4a http://audio.xmcdn.com/group7/M03/7C/BB/wKgDX1YOn1LS2FbLAByBOGU8LcQ799.m4a
+2018-10-11 11:54:12,721 __main__- INFO - done
+2018-10-11 11:54:12,722 __main__- INFO - start download Raimond Lap - Lustig.m4a url=http://audio.xmcdn.com/group7/M03/7C/AB/wKgDWlYOn1Sx7v5aAA4tonB1470573.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:12,722 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Lustig.m4a http://audio.xmcdn.com/group7/M03/7C/AB/wKgDWlYOn1Sx7v5aAA4tonB1470573.m4a
+2018-10-11 11:54:12,811 __main__- INFO - done
+2018-10-11 11:54:12,811 __main__- INFO - start download Raimond Lap - Childhood harmony.m4a url=http://audio.xmcdn.com/group14/M09/7C/95/wKgDY1YOnc7DZsmSABRiTyhq_rI886.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:12,811 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Childhood harmony.m4a http://audio.xmcdn.com/group14/M09/7C/95/wKgDY1YOnc7DZsmSABRiTyhq_rI886.m4a
+2018-10-11 11:54:12,934 __main__- INFO - done
+2018-10-11 11:54:12,935 __main__- INFO - start download Raimond Lap - Happy reggae.m4a url=http://audio.xmcdn.com/group16/M00/7C/9E/wKgDbFYOnmXynnApABn7uKg1pOc797.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:12,935 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Happy reggae.m4a http://audio.xmcdn.com/group16/M00/7C/9E/wKgDbFYOnmXynnApABn7uKg1pOc797.m4a
+2018-10-11 11:54:13,036 __main__- INFO - done
+2018-10-11 11:54:13,036 __main__- INFO - start download Raimond Lap - Baby's Sonata Facile.m4a url=http://audio.xmcdn.com/group12/M04/7B/F2/wKgDW1YOnaHQxGJ_AB4AB9HYUEQ353.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:13,036 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Baby's Sonata Facile.m4a http://audio.xmcdn.com/group12/M04/7B/F2/wKgDW1YOnaHQxGJ_AB4AB9HYUEQ353.m4a
+2018-10-11 11:54:13,110 __main__- INFO - done
+2018-10-11 11:54:13,110 __main__- INFO - start download Raimond Lap - Magical singing baby.m4a url=http://audio.xmcdn.com/group7/M03/7C/AC/wKgDWlYOn23hukoqABpd3MjhJFs894.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:13,110 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Magical singing baby.m4a http://audio.xmcdn.com/group7/M03/7C/AC/wKgDWlYOn23hukoqABpd3MjhJFs894.m4a
+2018-10-11 11:54:13,235 __main__- INFO - done
+2018-10-11 11:54:13,236 __main__- INFO - start download Raimond Lap - Baby's Sonata Allegro.m4a url=http://audio.xmcdn.com/group8/M0B/7C/A4/wKgDYFYOnYfizAEIAB8YNEDIa3g644.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:13,236 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Baby's Sonata Allegro.m4a http://audio.xmcdn.com/group8/M0B/7C/A4/wKgDYFYOnYfizAEIAB8YNEDIa3g644.m4a
+2018-10-11 11:54:13,346 __main__- INFO - done
+2018-10-11 11:54:13,346 __main__- INFO - start download Raimond Lap - Fur Elise-Theme.m4a url=http://audio.xmcdn.com/group7/M0B/7C/AA/wKgDWlYOnlDyWQleACEN5NAht5w877.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:13,346 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Fur Elise-Theme.m4a http://audio.xmcdn.com/group7/M0B/7C/AA/wKgDWlYOnlDyWQleACEN5NAht5w877.m4a
+2018-10-11 11:54:13,409 __main__- INFO - done
+2018-10-11 11:54:13,409 __main__- INFO - start download Raimond Lap - I Play.m4a url=http://audio.xmcdn.com/group9/M0B/7C/17/wKgDYlYOnpeCWuF4ABhj6gMcCvc672.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:13,410 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - I Play.m4a http://audio.xmcdn.com/group9/M0B/7C/17/wKgDYlYOnpeCWuF4ABhj6gMcCvc672.m4a
+2018-10-11 11:54:13,479 __main__- INFO - done
+2018-10-11 11:54:13,479 __main__- INFO - start download Raimond Lap - Free As A Bird.m4a url=http://audio.xmcdn.com/group11/M02/6F/DF/wKgDa1YOnjajsqy-ACgiyemkkjE942.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:13,479 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Free As A Bird.m4a http://audio.xmcdn.com/group11/M02/6F/DF/wKgDa1YOnjajsqy-ACgiyemkkjE942.m4a
+2018-10-11 11:54:13,556 __main__- INFO - done
+2018-10-11 11:54:13,556 __main__- INFO - start download Raimond Lap - Jesu, Joy of Man's Desiring.m4a url=http://audio.xmcdn.com/group15/M02/7C/5F/wKgDZVYOnsny6SYxAB2lHVi0X2g667.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:13,556 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Jesu, Joy of Man's Desiring.m4a http://audio.xmcdn.com/group15/M02/7C/5F/wKgDZVYOnsny6SYxAB2lHVi0X2g667.m4a
+2018-10-11 11:54:13,620 __main__- INFO - done
+2018-10-11 11:54:13,620 __main__- INFO - start download Raimond Lap - Forest Sounds Make Baby Sleep.m4a url=http://audio.xmcdn.com/group13/M0A/7C/D0/wKgDXlYOnfiBOL0DACRKd2jxbyw706.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:13,620 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Forest Sounds Make Baby Sleep.m4a http://audio.xmcdn.com/group13/M0A/7C/D0/wKgDXlYOnfiBOL0DACRKd2jxbyw706.m4a
+2018-10-11 11:54:13,675 __main__- INFO - done
+2018-10-11 11:54:13,675 __main__- INFO - start download Raimond Lap - Birds make me talk.m4a url=http://audio.xmcdn.com/group10/M08/7C/17/wKgDaVYOnbvTazsMABl5BR4Xino303.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:13,675 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Birds make me talk.m4a http://audio.xmcdn.com/group10/M08/7C/17/wKgDaVYOnbvTazsMABl5BR4Xino303.m4a
+2018-10-11 11:54:13,822 __main__- INFO - done
+2018-10-11 11:54:13,822 __main__- INFO - start download Raimond Lap - Melody major and melody minor.m4a url=http://audio.xmcdn.com/group12/M05/7B/F8/wKgDXFYOn5ShNyWkACRd0mxmSBU849.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:13,822 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Melody major and melody minor.m4a http://audio.xmcdn.com/group12/M05/7B/F8/wKgDXFYOn5ShNyWkACRd0mxmSBU849.m4a
+2018-10-11 11:54:13,909 __main__- INFO - done
+2018-10-11 11:54:13,909 __main__- INFO - start download Raimond Lap - In harmony with the sea.m4a url=http://audio.xmcdn.com/group9/M03/7C/65/wKgDZlYOnq-SBiTRABmyP15JVeE205.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:13,909 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - In harmony with the sea.m4a http://audio.xmcdn.com/group9/M03/7C/65/wKgDZlYOnq-SBiTRABmyP15JVeE205.m4a
+2018-10-11 11:54:13,966 __main__- INFO - done
+2018-10-11 11:54:13,966 __main__- INFO - start download Raimond Lap - Let's Rock and Roll.m4a url=http://audio.xmcdn.com/group12/M09/7B/F3/wKgDW1YOnxWB-HJFABwHbTa4ol4327.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:13,966 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Let's Rock and Roll.m4a http://audio.xmcdn.com/group12/M09/7B/F3/wKgDW1YOnxWB-HJFABwHbTa4ol4327.m4a
+2018-10-11 11:54:14,032 __main__- INFO - done
+2018-10-11 11:54:14,032 __main__- INFO - start download Raimond Lap - Moonlight Sonata.m4a url=http://audio.xmcdn.com/group8/M01/7C/E4/wKgDYVYOn6ehd97iABseLnT2ppU850.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:14,032 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Moonlight Sonata.m4a http://audio.xmcdn.com/group8/M01/7C/E4/wKgDYVYOn6ehd97iABseLnT2ppU850.m4a
+2018-10-11 11:54:14,109 __main__- INFO - done
+2018-10-11 11:54:14,109 __main__- INFO - start download Raimond Lap - My First Minuet.m4a url=http://audio.xmcdn.com/group13/M08/7C/D1/wKgDXlYOn7eBjcNAABlBcKvxUgc324.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:14,109 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - My First Minuet.m4a http://audio.xmcdn.com/group13/M08/7C/D1/wKgDXlYOn7eBjcNAABlBcKvxUgc324.m4a
+2018-10-11 11:54:14,184 __main__- INFO - done
+2018-10-11 11:54:14,184 __main__- INFO - start download Raimond Lap - Baby's Melody.m4a url=http://audio.xmcdn.com/group15/M04/7C/5E/wKgDZVYOnT_CWCvBABx-OSmQZB4840.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:14,184 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Baby's Melody.m4a http://audio.xmcdn.com/group15/M04/7C/5E/wKgDZVYOnT_CWCvBABx-OSmQZB4840.m4a
+2018-10-11 11:54:14,239 __main__- INFO - done
+2018-10-11 11:54:14,239 __main__- INFO - start download Piano Music- Piano Sonata No. 3 In E Major, Op. 109, I. Vivace.m4a url=http://audio.xmcdn.com/group12/M08/89/42/wKgDXFYoSjLxSYAyABMoofcV340829.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:14,239 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Piano Music- Piano Sonata No. 3 In E Major, Op. 109, I. Vivace.m4a http://audio.xmcdn.com/group12/M08/89/42/wKgDXFYoSjLxSYAyABMoofcV340829.m4a
+2018-10-11 11:54:14,327 __main__- INFO - done
+2018-10-11 11:54:14,327 __main__- INFO - start download Piano Music- Piano Sonata No. 8 in A minor, K. 310, I. Allegro maestr.m4a url=http://audio.xmcdn.com/group8/M07/8A/17/wKgDYVYoSmDDhMKYAB6rrSCY1ME484.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:14,327 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Piano Music- Piano Sonata No. 8 in A minor, K. 310, I. Allegro maestr.m4a http://audio.xmcdn.com/group8/M07/8A/17/wKgDYVYoSmDDhMKYAB6rrSCY1ME484.m4a
+2018-10-11 11:54:14,403 __main__- INFO - done
+2018-10-11 11:54:14,403 __main__- INFO - start download Piano Music- Bénédiction de Dieu dans la solitude.m4a url=http://audio.xmcdn.com/group13/M0A/8A/3D/wKgDXVYoTQzhkc1NAGXMAnhQrVs239.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:14,403 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Piano Music- Bénédiction de Dieu dans la solitude.m4a http://audio.xmcdn.com/group13/M0A/8A/3D/wKgDXVYoTQzhkc1NAGXMAnhQrVs239.m4a
+2018-10-11 11:54:14,484 __main__- INFO - done
+2018-10-11 11:54:14,484 __main__- INFO - start download Piano Music- Piano Sonata No. 32 in C minor, Op. 111, I. Maestoso All.m4a url=http://audio.xmcdn.com/group14/M02/8A/1B/wKgDY1YoTeawBosNADsu7HX7E2M565.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:14,485 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Piano Music- Piano Sonata No. 32 in C minor, Op. 111, I. Maestoso All.m4a http://audio.xmcdn.com/group14/M02/8A/1B/wKgDY1YoTeawBosNADsu7HX7E2M565.m4a
+2018-10-11 11:54:14,564 __main__- INFO - done
+2018-10-11 11:54:14,564 __main__- INFO - start download Piano Music - Piano Sonata No. 6 in F, Op. 10, I. Allegro.m4a url=http://audio.xmcdn.com/group8/M01/89/F3/wKgDYFYoXHCxPa5TADQeMz-i0ts079.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:14,564 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Piano Music - Piano Sonata No. 6 in F, Op. 10, I. Allegro.m4a http://audio.xmcdn.com/group8/M01/89/F3/wKgDYFYoXHCxPa5TADQeMz-i0ts079.m4a
+2018-10-11 11:54:14,629 __main__- INFO - done
+2018-10-11 11:54:14,629 __main__- INFO - start download Piano Music - Piano Sonata No. 6 in F, Op. 10, II. Allegretto.m4a url=http://audio.xmcdn.com/group11/M0B/96/02/wKgDbVYoXH-gKUQ3ABRSdwCwBGA315.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:14,629 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Piano Music - Piano Sonata No. 6 in F, Op. 10, II. Allegretto.m4a http://audio.xmcdn.com/group11/M0B/96/02/wKgDbVYoXH-gKUQ3ABRSdwCwBGA315.m4a
+2018-10-11 11:54:14,700 __main__- INFO - done
+2018-10-11 11:54:14,700 __main__- INFO - start download Piano Music - Piano Sonata No. 6 in F, Op. 10, III. Presto.m4a url=http://audio.xmcdn.com/group11/M0B/96/03/wKgDbVYoXI3jew8RAA_wPMxsK_I993.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:14,700 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Piano Music - Piano Sonata No. 6 in F, Op. 10, III. Presto.m4a http://audio.xmcdn.com/group11/M0B/96/03/wKgDbVYoXI3jew8RAA_wPMxsK_I993.m4a
+2018-10-11 11:54:14,779 __main__- INFO - done
+2018-10-11 11:54:14,780 __main__- INFO - start download Raimond Lap - Baby communication.m4a url=http://audio.xmcdn.com/group15/M06/BB/BD/wKgDaFZgAQCiu-oaACBKes7srLQ439.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:14,780 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Baby communication.m4a http://audio.xmcdn.com/group15/M06/BB/BD/wKgDaFZgAQCiu-oaACBKes7srLQ439.m4a
+2018-10-11 11:54:14,851 __main__- INFO - done
+2018-10-11 11:54:14,851 __main__- INFO - start download Raimond Lap - Daddy and I.m4a url=http://audio.xmcdn.com/group12/M02/BB/E3/wKgDXFZgARXznv5iAByi4Xc-lyM816.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:14,851 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Daddy and I.m4a http://audio.xmcdn.com/group12/M02/BB/E3/wKgDXFZgARXznv5iAByi4Xc-lyM816.m4a
+2018-10-11 11:54:14,908 __main__- INFO - done
+2018-10-11 11:54:14,909 __main__- INFO - start download Raimond Lap - Dancing for fun.m4a url=http://audio.xmcdn.com/group15/M07/BB/BE/wKgDaFZgASHheSYRABCl51uZEQU387.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:14,910 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Dancing for fun.m4a http://audio.xmcdn.com/group15/M07/BB/BE/wKgDaFZgASHheSYRABCl51uZEQU387.m4a
+2018-10-11 11:54:15,013 __main__- INFO - done
+2018-10-11 11:54:15,014 __main__- INFO - start download Raimond Lap - Kind and friendly.m4a url=http://audio.xmcdn.com/group16/M01/BB/EB/wKgDalZgAUGQxXbEACH2_M2v2xY501.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:15,014 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Kind and friendly.m4a http://audio.xmcdn.com/group16/M01/BB/EB/wKgDalZgAUGQxXbEACH2_M2v2xY501.m4a
+2018-10-11 11:54:15,082 __main__- INFO - done
+2018-10-11 11:54:15,082 __main__- INFO - start download Raimond Lap - Love is on our side.m4a url=http://audio.xmcdn.com/group9/M03/BC/45/wKgDYlZgAYWgzjECACJmbkDrE4c317.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:15,082 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Love is on our side.m4a http://audio.xmcdn.com/group9/M03/BC/45/wKgDYlZgAYWgzjECACJmbkDrE4c317.m4a
+2018-10-11 11:54:15,159 __main__- INFO - done
+2018-10-11 11:54:15,159 __main__- INFO - start download Raimond Lap - Made for peace.m4a url=http://audio.xmcdn.com/group10/M08/BB/04/wKgDaVZgAcaDCNw8AB_bRnRIUwA112.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:15,159 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Made for peace.m4a http://audio.xmcdn.com/group10/M08/BB/04/wKgDaVZgAcaDCNw8AB_bRnRIUwA112.m4a
+2018-10-11 11:54:15,236 __main__- INFO - done
+2018-10-11 11:54:15,236 __main__- INFO - start download Raimond Lap - My Closest friend.m4a url=http://audio.xmcdn.com/group16/M02/BB/ED/wKgDalZgAduTYrlWABsjwWdCjWc325.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:15,236 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - My Closest friend.m4a http://audio.xmcdn.com/group16/M02/BB/ED/wKgDalZgAduTYrlWABsjwWdCjWc325.m4a
+2018-10-11 11:54:15,295 __main__- INFO - done
+2018-10-11 11:54:15,295 __main__- INFO - start download Raimond Lap - Nature's surprise.m4a url=http://audio.xmcdn.com/group16/M02/BB/CE/wKgDbFZgAfayLxAeACB_Vz6sND4674.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:15,295 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Nature's surprise.m4a http://audio.xmcdn.com/group16/M02/BB/CE/wKgDbFZgAfayLxAeACB_Vz6sND4674.m4a
+2018-10-11 11:54:15,360 __main__- INFO - done
+2018-10-11 11:54:15,360 __main__- INFO - start download Raimond Lap - O yeh, my toys.m4a url=http://audio.xmcdn.com/group14/M02/BD/30/wKgDY1ZgAhCBTnd2AB5NwHLNYaM691.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:15,360 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - O yeh, my toys.m4a http://audio.xmcdn.com/group14/M02/BD/30/wKgDY1ZgAhCBTnd2AB5NwHLNYaM691.m4a
+2018-10-11 11:54:15,449 __main__- INFO - done
+2018-10-11 11:54:15,449 __main__- INFO - start download Raimond Lap - Peaceful thinking.m4a url=http://audio.xmcdn.com/group15/M06/BB/C1/wKgDaFZgAiGDKJxjABk_sjhzA4A527.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:15,449 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Peaceful thinking.m4a http://audio.xmcdn.com/group15/M06/BB/C1/wKgDaFZgAiGDKJxjABk_sjhzA4A527.m4a
+2018-10-11 11:54:15,529 __main__- INFO - done
+2018-10-11 11:54:15,529 __main__- INFO - start download Raimond Lap - Precious sounds of nature.m4a url=http://audio.xmcdn.com/group12/M09/BC/03/wKgDW1ZgAj3TChVcACFqEgQj6Cc198.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:15,529 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Precious sounds of nature.m4a http://audio.xmcdn.com/group12/M09/BC/03/wKgDW1ZgAj3TChVcACFqEgQj6Cc198.m4a
+2018-10-11 11:54:15,601 __main__- INFO - done
+2018-10-11 11:54:15,601 __main__- INFO - start download Raimond Lap - Sound sound blues.m4a url=http://audio.xmcdn.com/group8/M06/BC/5B/wKgDYVZgAlShp1D8AByeNb31_Hs148.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:15,601 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Sound sound blues.m4a http://audio.xmcdn.com/group8/M06/BC/5B/wKgDYVZgAlShp1D8AByeNb31_Hs148.m4a
+2018-10-11 11:54:15,703 __main__- INFO - done
+2018-10-11 11:54:15,704 __main__- INFO - start download Raimond Lap - Thinking of a lovely future.m4a url=http://audio.xmcdn.com/group11/M02/6F/E0/wKgDa1YOnkOz1LciABsTp4Ncep4284.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:15,704 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Thinking of a lovely future.m4a http://audio.xmcdn.com/group11/M02/6F/E0/wKgDa1YOnkOz1LciABsTp4Ncep4284.m4a
+2018-10-11 11:54:15,774 __main__- INFO - done
+2018-10-11 11:54:15,774 __main__- INFO - start download Raimond Lap - Theme.m4a url=http://audio.xmcdn.com/group11/M02/88/CD/wKgDbVYOniCzdEDWABjgkOhruhY036.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:15,774 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Theme.m4a http://audio.xmcdn.com/group11/M02/88/CD/wKgDbVYOniCzdEDWABjgkOhruhY036.m4a
+2018-10-11 11:54:15,844 __main__- INFO - done
+2018-10-11 11:54:15,844 __main__- INFO - start download Raimond Lap - Sing, Sing, Sing.m4a url=http://audio.xmcdn.com/group10/M03/7C/14/wKgDZ1YOnO3QEuINACGL079b1rE407.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:15,844 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Sing, Sing, Sing.m4a http://audio.xmcdn.com/group10/M03/7C/14/wKgDZ1YOnO3QEuINACGL079b1rE407.m4a
+2018-10-11 11:54:16,039 __main__- INFO - done
+2018-10-11 11:54:16,039 __main__- INFO - start download Raimond Lap - Theme _1_.m4a url=http://audio.xmcdn.com/group13/M0A/7C/D0/wKgDXlYOngbSjWjoABjgl_0T0ww285.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:16,040 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Theme _1_.m4a http://audio.xmcdn.com/group13/M0A/7C/D0/wKgDXlYOngbSjWjoABjgl_0T0ww285.m4a
+2018-10-11 11:54:16,115 __main__- INFO - done
+2018-10-11 11:54:16,116 __main__- INFO - start download Raimond Lap - Sound sound blues.m4a url=http://audio.xmcdn.com/group8/M0B/7C/A4/wKgDYFYOnY3Ddh1CAByeNEMLV7Q497.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:16,117 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Sound sound blues.m4a http://audio.xmcdn.com/group8/M0B/7C/A4/wKgDYFYOnY3Ddh1CAByeNEMLV7Q497.m4a
+2018-10-11 11:54:16,192 __main__- INFO - done
+2018-10-11 11:54:16,192 __main__- INFO - start download Raimond Lap - The essence of harmony.m4a url=http://audio.xmcdn.com/group13/M0A/7C/CF/wKgDXlYOnebDqHXcAB2tuD5Q2G0669.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:16,193 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - The essence of harmony.m4a http://audio.xmcdn.com/group13/M0A/7C/CF/wKgDXlYOnebDqHXcAB2tuD5Q2G0669.m4a
+2018-10-11 11:54:16,261 __main__- INFO - done
+2018-10-11 11:54:16,261 __main__- INFO - start download Raimond Lap - Sweet Little Christmas Blues.m4a url=http://audio.xmcdn.com/group12/M04/7B/F5/wKgDXFYOnZ6AI-qnAA-ih-M8lRw922.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:16,262 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Sweet Little Christmas Blues.m4a http://audio.xmcdn.com/group12/M04/7B/F5/wKgDXFYOnZ6AI-qnAA-ih-M8lRw922.m4a
+2018-10-11 11:54:16,326 __main__- INFO - done
+2018-10-11 11:54:16,326 __main__- INFO - start download Raimond Lap - Swing Baby Christmas.m4a url=http://audio.xmcdn.com/group14/M09/7C/95/wKgDY1YOncjCFCXoABulH5lr7Lw758.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:16,326 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Swing Baby Christmas.m4a http://audio.xmcdn.com/group14/M09/7C/95/wKgDY1YOncjCFCXoABulH5lr7Lw758.m4a
+2018-10-11 11:54:16,506 __main__- INFO - done
+2018-10-11 11:54:16,506 __main__- INFO - start download Raimond Lap - The love for my child.m4a url=http://audio.xmcdn.com/group13/M0A/7C/CF/wKgDXlYOnfDT1MSsABRic7XCmJE309.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:16,509 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - The love for my child.m4a http://audio.xmcdn.com/group13/M0A/7C/CF/wKgDXlYOnfDT1MSsABRic7XCmJE309.m4a
+2018-10-11 11:54:16,751 __main__- INFO - done
+2018-10-11 11:54:16,751 __main__- INFO - start download Raimond Lap - Sleepy baby, close your eyes.m4a url=http://audio.xmcdn.com/group15/M04/7C/86/wKgDaFYOnR3h5WtNAB7o_qX2GQc616.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:16,752 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Sleepy baby, close your eyes.m4a http://audio.xmcdn.com/group15/M04/7C/86/wKgDaFYOnR3h5WtNAB7o_qX2GQc616.m4a
+2018-10-11 11:54:16,865 __main__- INFO - done
+2018-10-11 11:54:16,866 __main__- INFO - start download Raimond Lap - Sonata Pathetique.m4a url=http://audio.xmcdn.com/group8/M0B/7C/A3/wKgDYFYOnWzzgaQPAC2ta_Ao9c4769.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:16,866 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Sonata Pathetique.m4a http://audio.xmcdn.com/group8/M0B/7C/A3/wKgDYFYOnWzzgaQPAC2ta_Ao9c4769.m4a
+2018-10-11 11:54:16,937 __main__- INFO - done
+2018-10-11 11:54:16,938 __main__- INFO - start download Raimond Lap - Sleep Tight, Little One.m4a url=http://audio.xmcdn.com/group12/M08/7B/F0/wKgDW1YOnPfg4nc3ABSLtYx6qYs275.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:16,938 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Sleep Tight, Little One.m4a http://audio.xmcdn.com/group12/M08/7B/F0/wKgDW1YOnPfg4nc3ABSLtYx6qYs275.m4a
+2018-10-11 11:54:17,018 __main__- INFO - done
+2018-10-11 11:54:17,018 __main__- INFO - start download Raimond Lap - Sonata Pathetique _1_.m4a url=http://audio.xmcdn.com/group15/M04/7C/87/wKgDaFYOnUbCgOsaAC2tciutfrs133.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:17,018 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Sonata Pathetique _1_.m4a http://audio.xmcdn.com/group15/M04/7C/87/wKgDaFYOnUbCgOsaAC2tciutfrs133.m4a
+2018-10-11 11:54:17,100 __main__- INFO - done
+2018-10-11 11:54:17,101 __main__- INFO - start download Raimond Lap - Sing mit Baby.m4a url=http://audio.xmcdn.com/group10/M03/7C/13/wKgDZ1YOnOHyiFeAABRJWYYVEPM320.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:17,101 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Sing mit Baby.m4a http://audio.xmcdn.com/group10/M03/7C/13/wKgDZ1YOnOHyiFeAABRJWYYVEPM320.m4a
+2018-10-11 11:54:17,159 __main__- INFO - done
+2018-10-11 11:54:17,160 __main__- INFO - start download 妈咪的怀抱里.m4a url=http://audio.xmcdn.com/group9/M09/7B/46/wKgDYlYM7M2jW9iUADDQ6G2rjp8400.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:17,160 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 妈咪的怀抱里.m4a http://audio.xmcdn.com/group9/M09/7B/46/wKgDYlYM7M2jW9iUADDQ6G2rjp8400.m4a
+2018-10-11 11:54:17,236 __main__- INFO - done
+2018-10-11 11:54:17,236 __main__- INFO - start download AIR 空气.m4a url=http://audio.xmcdn.com/group16/M00/7B/C7/wKgDbFYM7IXR4HYzACUKd9J7A9k347.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:17,236 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O AIR 空气.m4a http://audio.xmcdn.com/group16/M00/7B/C7/wKgDbFYM7IXR4HYzACUKd9J7A9k347.m4a
+2018-10-11 11:54:17,314 __main__- INFO - done
+2018-10-11 11:54:17,315 __main__- INFO - start download Amaryllis 阿玛里利斯.m4a url=http://audio.xmcdn.com/group16/M00/7B/C2/wKgDalYM7HbSia4FABfp1XvuETE605.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:17,315 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Amaryllis 阿玛里利斯.m4a http://audio.xmcdn.com/group16/M00/7B/C2/wKgDalYM7HbSia4FABfp1XvuETE605.m4a
+2018-10-11 11:54:17,384 __main__- INFO - done
+2018-10-11 11:54:17,384 __main__- INFO - start download 爹地以你为荣.m4a url=http://audio.xmcdn.com/group16/M0B/2A/23/wKgDalWGPwOiswMRABKS5EWbRXs652.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:17,385 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 爹地以你为荣.m4a http://audio.xmcdn.com/group16/M0B/2A/23/wKgDalWGPwOiswMRABKS5EWbRXs652.m4a
+2018-10-11 11:54:17,451 __main__- INFO - done
+2018-10-11 11:54:17,452 __main__- INFO - start download 爱的语言.m4a url=http://audio.xmcdn.com/group11/M04/1F/72/wKgDa1V6fB2TNDoDABzHXjNIvc4282.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:17,452 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 爱的语言.m4a http://audio.xmcdn.com/group11/M04/1F/72/wKgDa1V6fB2TNDoDABzHXjNIvc4282.m4a
+2018-10-11 11:54:17,538 __main__- INFO - done
+2018-10-11 11:54:17,538 __main__- INFO - start download 沈思宝宝.m4a url=http://audio.xmcdn.com/group13/M02/1F/23/wKgDXVV5-BiB8Kl1ABdV114lqcc649.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:17,538 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 沈思宝宝.m4a http://audio.xmcdn.com/group13/M02/1F/23/wKgDXVV5-BiB8Kl1ABdV114lqcc649.m4a
+2018-10-11 11:54:17,600 __main__- INFO - done
+2018-10-11 11:54:17,600 __main__- INFO - start download 摇滚时间！.m4a url=http://audio.xmcdn.com/group9/M04/44/AD/wKgDYlWmRN7Qv_1nAByITlKwNW8050.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:17,600 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 摇滚时间！.m4a http://audio.xmcdn.com/group9/M04/44/AD/wKgDYlWmRN7Qv_1nAByITlKwNW8050.m4a
+2018-10-11 11:54:17,676 __main__- INFO - done
+2018-10-11 11:54:17,677 __main__- INFO - start download 所有的爱都给了你.m4a url=http://audio.xmcdn.com/group7/M04/36/7B/wKgDWlWVcPWjRtNxAB01bngA2b8933.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:17,677 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 所有的爱都给了你.m4a http://audio.xmcdn.com/group7/M04/36/7B/wKgDWlWVcPWjRtNxAB01bngA2b8933.m4a
+2018-10-11 11:54:17,774 __main__- INFO - done
+2018-10-11 11:54:17,774 __main__- INFO - start download 我长大要当总统.m4a url=http://audio.xmcdn.com/group11/M06/45/6E/wKgDa1WmuC6wv_1BABfeS4jyDlA220.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:17,774 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 我长大要当总统.m4a http://audio.xmcdn.com/group11/M06/45/6E/wKgDa1WmuC6wv_1BABfeS4jyDlA220.m4a
+2018-10-11 11:54:17,847 __main__- INFO - done
+2018-10-11 11:54:17,847 __main__- INFO - start download 快乐宝宝.m4a url=http://audio.xmcdn.com/group15/M00/1C/28/wKgDaFV29YWzdc_eABRj3sEAXnc516.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:17,848 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 快乐宝宝.m4a http://audio.xmcdn.com/group15/M00/1C/28/wKgDaFV29YWzdc_eABRj3sEAXnc516.m4a
+2018-10-11 11:54:17,926 __main__- INFO - done
+2018-10-11 11:54:17,927 __main__- INFO - start download 宝宝的魔力.m4a url=http://audio.xmcdn.com/group15/M01/2A/E2/wKgDZVWGrwDAsGnmABomFpAjQV4650.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:17,927 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 宝宝的魔力.m4a http://audio.xmcdn.com/group15/M01/2A/E2/wKgDZVWGrwDAsGnmABomFpAjQV4650.m4a
+2018-10-11 11:54:18,044 __main__- INFO - done
+2018-10-11 11:54:18,045 __main__- INFO - start download 宝宝异想世界.m4a url=http://audio.xmcdn.com/group16/M00/3B/B9/wKgDbFWcbmKTv-lTAA2iRgxIM-8795.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:18,045 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 宝宝异想世界.m4a http://audio.xmcdn.com/group16/M00/3B/B9/wKgDbFWcbmKTv-lTAA2iRgxIM-8795.m4a
+2018-10-11 11:54:18,115 __main__- INFO - done
+2018-10-11 11:54:18,116 __main__- INFO - start download Daddy and I-爹地与我.m4a url=http://audio.xmcdn.com/group7/M00/15/E2/wKgDX1VumEaDRiRxAB6FLQ7AsHg226.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:18,116 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Daddy and I-爹地与我.m4a http://audio.xmcdn.com/group7/M00/15/E2/wKgDX1VumEaDRiRxAB6FLQ7AsHg226.m4a
+2018-10-11 11:54:18,243 __main__- INFO - done
+2018-10-11 11:54:18,243 __main__- INFO - start download I play, listen and enjoy-享受快乐时光.m4a url=http://audio.xmcdn.com/group12/M04/15/7B/wKgDXFVumC_BKPxFACUyOIUBx8k913.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:18,243 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O I play, listen and enjoy-享受快乐时光.m4a http://audio.xmcdn.com/group12/M04/15/7B/wKgDXFVumC_BKPxFACUyOIUBx8k913.m4a
+2018-10-11 11:54:18,326 __main__- INFO - done
+2018-10-11 11:54:18,326 __main__- INFO - start download In harmony with the sea-与大海唱和.m4a url=http://audio.xmcdn.com/group10/M09/15/A1/wKgDZ1VumJ_SBfyQABz0x71UAqs772.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:18,326 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O In harmony with the sea-与大海唱和.m4a http://audio.xmcdn.com/group10/M09/15/A1/wKgDZ1VumJ_SBfyQABz0x71UAqs772.m4a
+2018-10-11 11:54:18,391 __main__- INFO - done
+2018-10-11 11:54:18,392 __main__- INFO - start download Magical singing baby-魔法宝宝会唱歌.m4a url=http://audio.xmcdn.com/group11/M08/15/A3/wKgDbVVumHjTMpj1ACCm_FEzXZA789.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:18,392 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Magical singing baby-魔法宝宝会唱歌.m4a http://audio.xmcdn.com/group11/M08/15/A3/wKgDbVVumHjTMpj1ACCm_FEzXZA789.m4a
+2018-10-11 11:54:18,451 __main__- INFO - done
+2018-10-11 11:54:18,451 __main__- INFO - start download O yeh, my toys-耶！我的玩具！.m4a url=http://audio.xmcdn.com/group10/M09/15/A1/wKgDZ1VumJeTIk-9ABzx1UodyKc534.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:18,451 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O O yeh, my toys-耶！我的玩具！.m4a http://audio.xmcdn.com/group10/M09/15/A1/wKgDZ1VumJeTIk-9ABzx1UodyKc534.m4a
+2018-10-11 11:54:18,543 __main__- INFO - done
+2018-10-11 11:54:18,544 __main__- INFO - start download Birds make me talk-童言鸟语.m4a url=http://audio.xmcdn.com/group14/M03/15/CC/wKgDZFVumR2x_9GeAB5fEREDA2k929.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:18,544 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Birds make me talk-童言鸟语.m4a http://audio.xmcdn.com/group14/M03/15/CC/wKgDZFVumR2x_9GeAB5fEREDA2k929.m4a
+2018-10-11 11:54:18,611 __main__- INFO - done
+2018-10-11 11:54:18,612 __main__- INFO - start download Melody major and melody minor-两种旋律.m4a url=http://audio.xmcdn.com/group10/M00/15/A7/wKgDaVVumRPjgS5hAA2TpTrsRIM842.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:18,612 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Melody major and melody minor-两种旋律.m4a http://audio.xmcdn.com/group10/M00/15/A7/wKgDaVVumRPjgS5hAA2TpTrsRIM842.m4a
+2018-10-11 11:54:18,685 __main__- INFO - done
+2018-10-11 11:54:18,685 __main__- INFO - start download Nabadabada-咿比丫ㄚ 我的歌.m4a url=http://audio.xmcdn.com/group10/M00/15/A7/wKgDaVVumQ_QvEcZACRRwEaBfd4901.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:18,685 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Nabadabada-咿比丫ㄚ 我的歌.m4a http://audio.xmcdn.com/group10/M00/15/A7/wKgDaVVumQ_QvEcZACRRwEaBfd4901.m4a
+2018-10-11 11:54:18,773 __main__- INFO - done
+2018-10-11 11:54:18,773 __main__- INFO - start download My magical melody-神奇的旋律.m4a url=http://audio.xmcdn.com/group14/M04/15/DE/wKgDY1VumayB-6FlABSLY-yEI6I219.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:18,773 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O My magical melody-神奇的旋律.m4a http://audio.xmcdn.com/group14/M04/15/DE/wKgDY1VumayB-6FlABSLY-yEI6I219.m4a
+2018-10-11 11:54:18,835 __main__- INFO - done
+2018-10-11 11:54:18,835 __main__- INFO - start download Nabadabada-咿比丫ㄚ 我的歌.m4a url=http://audio.xmcdn.com/group11/M02/15/A4/wKgDa1VumbDThJrDACRRwEaBfd4929.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:18,836 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Nabadabada-咿比丫ㄚ 我的歌.m4a http://audio.xmcdn.com/group11/M02/15/A4/wKgDa1VumbDThJrDACRRwEaBfd4929.m4a
+2018-10-11 11:54:18,939 __main__- INFO - done
+2018-10-11 11:54:18,939 __main__- INFO - start download Tired but inspired-我的大脑不打烊！.m4a url=http://audio.xmcdn.com/group14/M04/15/CC/wKgDZFVumZeQANQjACmBQ6e7ShI309.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:18,939 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Tired but inspired-我的大脑不打烊！.m4a http://audio.xmcdn.com/group14/M04/15/CC/wKgDZFVumZeQANQjACmBQ6e7ShI309.m4a
+2018-10-11 11:54:19,035 __main__- INFO - done
+2018-10-11 11:54:19,035 __main__- INFO - start download I like that melody.m4a url=http://audio.xmcdn.com/group13/M01/1D/F5/wKgDXVV46HSjcZs3AB69Bv8YSWg236.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:19,035 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O I like that melody.m4a http://audio.xmcdn.com/group13/M01/1D/F5/wKgDXVV46HSjcZs3AB69Bv8YSWg236.m4a
+2018-10-11 11:54:19,113 __main__- INFO - done
+2018-10-11 11:54:19,113 __main__- INFO - start download Join the magic.m4a url=http://audio.xmcdn.com/group13/M01/1E/0D/wKgDXlV46FeiHDjEABmpXCOFBHY890.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:19,113 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Join the magic.m4a http://audio.xmcdn.com/group13/M01/1E/0D/wKgDXlV46FeiHDjEABmpXCOFBHY890.m4a
+2018-10-11 11:54:19,193 __main__- INFO - done
+2018-10-11 11:54:19,193 __main__- INFO - start download Flying melody and harmony.m4a url=http://audio.xmcdn.com/group7/M09/1E/01/wKgDX1V46NuTkGbMACFXE2Dx_EM166.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:19,193 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Flying melody and harmony.m4a http://audio.xmcdn.com/group7/M09/1E/01/wKgDX1V46NuTkGbMACFXE2Dx_EM166.m4a
+2018-10-11 11:54:19,267 __main__- INFO - done
+2018-10-11 11:54:19,267 __main__- INFO - start download Let me sing my song.m4a url=http://audio.xmcdn.com/group7/M09/1E/01/wKgDX1V46MrhioZEAB4rzsxK0vA886.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:19,267 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Let me sing my song.m4a http://audio.xmcdn.com/group7/M09/1E/01/wKgDX1V46MrhioZEAB4rzsxK0vA886.m4a
+2018-10-11 11:54:19,331 __main__- INFO - done
+2018-10-11 11:54:19,331 __main__- INFO - start download Magical baby blues.m4a url=http://audio.xmcdn.com/group14/M00/1D/FA/wKgDY1V46SOCzMzxABUSaSTuw4E516.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:19,332 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Magical baby blues.m4a http://audio.xmcdn.com/group14/M00/1D/FA/wKgDY1V46SOCzMzxABUSaSTuw4E516.m4a
+2018-10-11 11:54:19,415 __main__- INFO - done
+2018-10-11 11:54:19,415 __main__- INFO - start download Magical lullaby.m4a url=http://audio.xmcdn.com/group14/M00/1D/D5/wKgDZFV46R_wVLBVACUaxdMduxY354.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:19,415 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Magical lullaby.m4a http://audio.xmcdn.com/group14/M00/1D/D5/wKgDZFV46R_wVLBVACUaxdMduxY354.m4a
+2018-10-11 11:54:19,494 __main__- INFO - done
+2018-10-11 11:54:19,495 __main__- INFO - start download Flying melody and harmony.m4a url=http://audio.xmcdn.com/group9/M0A/27/B5/wKgDZlWDkRuTubcoACFXE2Dx_EM121.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:19,495 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Flying melody and harmony.m4a http://audio.xmcdn.com/group9/M0A/27/B5/wKgDZlWDkRuTubcoACFXE2Dx_EM121.m4a
+2018-10-11 11:54:19,558 __main__- INFO - done
+2018-10-11 11:54:19,558 __main__- INFO - start download I like that melody.m4a url=http://audio.xmcdn.com/group15/M01/27/E6/wKgDZVWDkVqwxHUpAB69Bv8YSWg533.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:19,558 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O I like that melody.m4a http://audio.xmcdn.com/group15/M01/27/E6/wKgDZVWDkVqwxHUpAB69Bv8YSWg533.m4a
+2018-10-11 11:54:19,639 __main__- INFO - done
+2018-10-11 11:54:19,639 __main__- INFO - start download Join the magic.m4a url=http://audio.xmcdn.com/group15/M01/27/E7/wKgDZVWDkWuiLUomABmpXCOFBHY544.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:19,639 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Join the magic.m4a http://audio.xmcdn.com/group15/M01/27/E7/wKgDZVWDkWuiLUomABmpXCOFBHY544.m4a
+2018-10-11 11:54:19,713 __main__- INFO - done
+2018-10-11 11:54:19,714 __main__- INFO - start download Let me sing my song.m4a url=http://audio.xmcdn.com/group13/M07/27/E6/wKgDXVWDkXvy3Lz_AB4rzsxK0vA708.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:19,714 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Let me sing my song.m4a http://audio.xmcdn.com/group13/M07/27/E6/wKgDXVWDkXvy3Lz_AB4rzsxK0vA708.m4a
+2018-10-11 11:54:19,807 __main__- INFO - done
+2018-10-11 11:54:19,808 __main__- INFO - start download Magical baby blues.m4a url=http://audio.xmcdn.com/group13/M07/27/E7/wKgDXVWDkYKiGPABABUSaSTuw4E037.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:19,808 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Magical baby blues.m4a http://audio.xmcdn.com/group13/M07/27/E7/wKgDXVWDkYKiGPABABUSaSTuw4E037.m4a
+2018-10-11 11:54:19,881 __main__- INFO - done
+2018-10-11 11:54:19,881 __main__- INFO - start download Magical lullaby.m4a url=http://audio.xmcdn.com/group8/M08/27/80/wKgDYFWDkb_SEiYtACUaxdMduxY858.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:19,881 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Magical lullaby.m4a http://audio.xmcdn.com/group8/M08/27/80/wKgDYFWDkb_SEiYtACUaxdMduxY858.m4a
+2018-10-11 11:54:19,948 __main__- INFO - done
+2018-10-11 11:54:19,948 __main__- INFO - start download 给我的妈咪.m4a url=http://audio.xmcdn.com/group11/M06/51/F2/wKgDa1W1xRXwR8j1ABSRWkCo9FA642.m4a outdir=宝宝的异想世界系列
+2018-10-11 11:54:19,948 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 给我的妈咪.m4a http://audio.xmcdn.com/group11/M06/51/F2/wKgDa1W1xRXwR8j1ABSRWkCo9FA642.m4a
+2018-10-11 11:54:42,916 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 11:54:42,917 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 11:57:50,676 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 11:57:50,677 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:04:50,335 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 12:04:50,336 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:04:50,594 __main__- ERROR - 未获取数据
+2018-10-11 12:05:37,175 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 12:05:37,176 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:05:37,377 __main__- ERROR - 未获取数据
+2018-10-11 12:06:00,017 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 12:06:00,018 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:06:00,211 __main__- ERROR - 未获取数据
+2018-10-11 12:06:46,565 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 12:06:46,565 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:09:53,305 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 12:09:53,306 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:56:31,650 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 12:56:31,651 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:56:41,747 __main__- INFO - ******************************开始获取网页测试页************************************
+2018-10-11 12:56:41,748 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:56:41,757 __main__- ERROR - 未获取数据
+2018-10-11 12:56:58,550 __main__- INFO - ******************************开始获取网页测试页************************************
+2018-10-11 12:56:58,550 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:56:58,556 __main__- ERROR - 未获取数据
+2018-10-11 12:57:25,016 __main__- INFO - ******************************开始获取网页测试页************************************
+2018-10-11 12:57:25,016 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:57:45,635 __main__- INFO - ******************************开始获取网页测试页************************************
+2018-10-11 12:57:45,635 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:58:02,197 __main__- INFO - ******************************开始获取网页测试页************************************
+2018-10-11 12:58:02,198 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:58:49,305 __main__- INFO - ******************************开始获取网页测试页************************************
+2018-10-11 12:58:49,306 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:59:29,173 __main__- INFO - ******************************开始获取网页测试页************************************
+2018-10-11 12:59:29,174 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 12:59:52,835 __main__- INFO - ******************************开始获取网页测试页************************************
+2018-10-11 12:59:52,835 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 14:21:21,112 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:21:21,116 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 14:21:22,262 __main__- INFO - titlelst=[<h1 class="o77S title">宝宝的异想世界系列</h1>]
+2018-10-11 14:21:22,263 __main__- INFO - make outdir 宝宝的异想世界系列
+2018-10-11 14:21:22,296 __main__- INFO - cnt=277
+2018-10-11 14:21:22,296 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:21:22,296 __main__- INFO - url=https://www.ximalaya.com/ertong/7824911/
+2018-10-11 14:21:22,848 __main__- INFO - titlelst=[<h1 class="o77S title">胎教音乐：贝多芬精选音乐</h1>]
+2018-10-11 14:21:22,852 __main__- INFO - make outdir 胎教音乐：贝多芬精选音乐
+2018-10-11 14:22:29,434 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:22:29,434 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 14:22:30,527 __main__- INFO - titlelst=[<h1 class="o77S title">宝宝的异想世界系列</h1>]
+2018-10-11 14:22:30,528 __main__- INFO - make outdir 宝宝的异想世界系列
+2018-10-11 14:23:40,113 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:23:40,114 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 14:23:41,212 __main__- INFO - titlelst=[<h1 class="o77S title">宝宝的异想世界系列</h1>]
+2018-10-11 14:23:41,214 __main__- INFO - make outdir 宝宝的异想世界系列
+2018-10-11 14:23:59,141 __main__- INFO - cnt=277
+2018-10-11 14:23:59,142 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:23:59,142 __main__- INFO - url=https://www.ximalaya.com/ertong/7824911/
+2018-10-11 14:24:00,191 __main__- INFO - titlelst=[<h1 class="o77S title">胎教音乐：贝多芬精选音乐</h1>]
+2018-10-11 14:24:00,192 __main__- INFO - make outdir 胎教音乐：贝多芬精选音乐
+2018-10-11 14:27:23,215 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:27:23,215 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 14:27:23,635 __main__- INFO - titlelst=[<h1 class="o77S title">宝宝的异想世界系列</h1>]
+2018-10-11 14:27:23,636 __main__- INFO - make outdir 宝宝的异想世界系列
+2018-10-11 14:28:33,437 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:28:33,437 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 14:28:33,837 __main__- INFO - titlelst=[<h1 class="o77S title">宝宝的异想世界系列</h1>]
+2018-10-11 14:28:33,838 __main__- INFO - make outdir 宝宝的异想世界系列
+2018-10-11 14:28:33,885 __main__- INFO - cnt=277
+2018-10-11 14:28:33,885 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:28:33,885 __main__- INFO - url=https://www.ximalaya.com/ertong/7824911/
+2018-10-11 14:28:34,482 __main__- INFO - titlelst=[<h1 class="o77S title">胎教音乐：贝多芬精选音乐</h1>]
+2018-10-11 14:28:34,483 __main__- INFO - make outdir 胎教音乐：贝多芬精选音乐
+2018-10-11 14:28:34,516 __main__- INFO - cnt=25
+2018-10-11 14:35:08,773 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:35:08,774 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 14:35:09,227 __main__- INFO - titlelst=[<h1 class="o77S title">宝宝的异想世界系列</h1>]
+2018-10-11 14:35:09,228 __main__- INFO - make outdir 宝宝的异想世界系列
+2018-10-11 14:35:09,257 __main__- INFO - cnt=277
+2018-10-11 14:35:09,258 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:35:09,258 __main__- INFO - url=https://www.ximalaya.com/ertong/7824911/
+2018-10-11 14:35:09,685 __main__- INFO - titlelst=[<h1 class="o77S title">胎教音乐：贝多芬精选音乐</h1>]
+2018-10-11 14:35:09,686 __main__- INFO - make outdir 胎教音乐_贝多芬精选音乐
+2018-10-11 14:35:09,738 __main__- INFO - cnt=25
+2018-10-11 14:39:11,976 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:39:11,977 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 14:39:12,488 __main__- INFO - titlelst=[<h1 class="o77S title">宝宝的异想世界系列</h1>]
+2018-10-11 14:39:12,489 __main__- INFO - make outdir 宝宝的异想世界系列
+2018-10-11 14:39:12,550 __main__- INFO - cnt=277
+2018-10-11 14:39:12,552 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:39:12,552 __main__- INFO - url=https://www.ximalaya.com/ertong/7824911/
+2018-10-11 14:39:12,803 __main__- INFO - titlelst=[<h1 class="o77S title">胎教音乐：贝多芬精选音乐</h1>]
+2018-10-11 14:39:12,804 __main__- INFO - make outdir 胎教音乐_贝多芬精选音乐
+2018-10-11 14:39:12,829 __main__- INFO - cnt=25
+2018-10-11 14:45:09,895 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:45:09,897 __main__- INFO - url=https://www.ximalaya.com/yinyue/364431/
+2018-10-11 14:45:11,205 __main__- INFO - titlelst=[<h1 class="o77S title">宝宝的异想世界系列</h1>]
+2018-10-11 14:45:11,207 __main__- INFO - make outdir 宝宝的异想世界系列
+2018-10-11 14:45:11,236 __main__- INFO - cnt=277
+2018-10-11 14:45:11,236 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:45:11,238 __main__- INFO - url=https://www.ximalaya.com/ertong/7824911/
+2018-10-11 14:45:12,497 __main__- INFO - titlelst=[<h1 class="o77S title">胎教音乐：贝多芬精选音乐</h1>]
+2018-10-11 14:45:12,500 __main__- INFO - make outdir 胎教音乐_贝多芬精选音乐
+2018-10-11 14:45:12,533 __main__- INFO - cnt=25
+2018-10-11 14:45:12,535 __main__- INFO - ******************************开始获取网页************************************
+2018-10-11 14:45:12,537 __main__- INFO - url=https://www.ximalaya.com/revision/play/album?albumId=364431&pageNum=1&sort=-1&pageSize=277
+2018-10-11 14:45:14,666 __main__- INFO - start download 谷村新司 - 童歌 ナラうた カラオケ.m4a url=http://audio.xmcdn.com/group44/M01/3F/80/wKgKjFsrTEvyCe3nAClLjeDfzFE232.m4a outdir=宝宝的异想世界系列
+2018-10-11 14:45:14,669 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 谷村新司 - 童歌 ナラうた カラオケ.m4a http://audio.xmcdn.com/group44/M01/3F/80/wKgKjFsrTEvyCe3nAClLjeDfzFE232.m4a
+2018-10-11 14:45:51,846 __main__- INFO - done
+2018-10-11 14:45:51,847 __main__- INFO - start download Mars Lasar - Amy's Lullaby III.m4a url=http://audio.xmcdn.com/group44/M05/35/1C/wKgKkVsffZKSkbuZACAr3sF3cs4147.m4a outdir=宝宝的异想世界系列
+2018-10-11 14:45:51,848 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Mars Lasar - Amy's Lullaby III.m4a http://audio.xmcdn.com/group44/M05/35/1C/wKgKkVsffZKSkbuZACAr3sF3cs4147.m4a
+2018-10-11 14:46:27,033 __main__- INFO - done
+2018-10-11 14:46:27,034 __main__- INFO - start download 魔笛序曲_莫扎特曲_.m4a url=http://audio.xmcdn.com/group43/M07/7B/C5/wKgKklsHgCKSG5DaABDRvF7v9k8276.m4a outdir=宝宝的异想世界系列
+2018-10-11 14:46:27,035 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 魔笛序曲_莫扎特曲_.m4a http://audio.xmcdn.com/group43/M07/7B/C5/wKgKklsHgCKSG5DaABDRvF7v9k8276.m4a
+2018-10-11 14:49:43,543 __main__- INFO - done
+2018-10-11 14:49:43,543 __main__- INFO - start download 天上星星下凡来.m4a url=http://audio.xmcdn.com/group44/M0B/6D/4D/wKgKjFr9IfGjpik8ACDlxSltD84785.m4a outdir=宝宝的异想世界系列
+2018-10-11 14:49:43,544 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 天上星星下凡来.m4a http://audio.xmcdn.com/group44/M0B/6D/4D/wKgKjFr9IfGjpik8ACDlxSltD84785.m4a
+2018-10-11 14:53:00,611 __main__- INFO - done
+2018-10-11 14:53:00,612 __main__- INFO - start download 宝贝的歌.m4a url=http://audio.xmcdn.com/group40/M09/79/30/wKgJVFrezYDj47L_ACIXMbpL11o680.m4a outdir=宝宝的异想世界系列
+2018-10-11 14:53:00,615 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 宝贝的歌.m4a http://audio.xmcdn.com/group40/M09/79/30/wKgJVFrezYDj47L_ACIXMbpL11o680.m4a
+2018-10-11 14:56:16,499 __main__- INFO - done
+2018-10-11 14:56:16,499 __main__- INFO - start download Chopin - 前奏曲 No.15 雨滴.m4a url=http://audio.xmcdn.com/group41/M09/17/7F/wKgJ8lrW6M-xM-3hACjh089dO1c523.m4a outdir=宝宝的异想世界系列
+2018-10-11 14:56:16,503 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Chopin - 前奏曲 No.15 雨滴.m4a http://audio.xmcdn.com/group41/M09/17/7F/wKgJ8lrW6M-xM-3hACjh089dO1c523.m4a
+2018-10-11 14:56:55,777 __main__- INFO - done
+2018-10-11 14:56:55,777 __main__- INFO - start download Raimond Lap - Moonlight Sonata.m4a url=http://audio.xmcdn.com/group40/M02/5A/7F/wKgJT1rQazWBsL6KABsappKubvY050.m4a outdir=宝宝的异想世界系列
+2018-10-11 14:56:55,778 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Raimond Lap - Moonlight Sonata.m4a http://audio.xmcdn.com/group40/M02/5A/7F/wKgJT1rQazWBsL6KABsappKubvY050.m4a
+2018-10-11 14:57:30,873 __main__- INFO - done
+2018-10-11 14:57:30,875 __main__- INFO - start download 静寂.m4a url=http://audio.xmcdn.com/group38/M00/A6/8B/wKgJolpoXkbCOmstAE5cknK3XNc447.m4a outdir=宝宝的异想世界系列
+2018-10-11 14:57:30,882 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 静寂.m4a http://audio.xmcdn.com/group38/M00/A6/8B/wKgJolpoXkbCOmstAE5cknK3XNc447.m4a
+2018-10-11 15:00:43,625 __main__- INFO - done
+2018-10-11 15:00:43,625 __main__- INFO - start download Morning In The Meadow.m4a url=http://audio.xmcdn.com/group39/M04/A6/75/wKgJn1poXOeyN7_KACXjTjWmqB0682.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:00:43,626 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Morning In The Meadow.m4a http://audio.xmcdn.com/group39/M04/A6/75/wKgJn1poXOeyN7_KACXjTjWmqB0682.m4a
+2018-10-11 15:01:18,140 __main__- INFO - done
+2018-10-11 15:01:18,141 __main__- INFO - start download 《星光夜语》周志宏.m4a url=http://audio.xmcdn.com/group25/M09/80/4A/wKgJMVihIQqBfm5jABwejWzItVg373.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:01:18,143 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 《星光夜语》周志宏.m4a http://audio.xmcdn.com/group25/M09/80/4A/wKgJMVihIQqBfm5jABwejWzItVg373.m4a
+2018-10-11 15:05:15,726 __main__- INFO - done
+2018-10-11 15:05:15,726 __main__- INFO - start download 《耶诞铃声》周志宏.m4a url=http://audio.xmcdn.com/group22/M03/CA/A3/wKgJLlhTbXmDjcvKAELZb2OjkNU967.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:05:15,728 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 《耶诞铃声》周志宏.m4a http://audio.xmcdn.com/group22/M03/CA/A3/wKgJLlhTbXmDjcvKAELZb2OjkNU967.m4a
+2018-10-11 15:08:39,245 __main__- INFO - done
+2018-10-11 15:08:39,246 __main__- INFO - start download Always with me_口琴版_.m4a url=http://audio.xmcdn.com/group37/M00/23/A3/wKgJoVpTQGmAe207ABDAau3OC4Q750.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:08:39,248 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Always with me_口琴版_.m4a http://audio.xmcdn.com/group37/M00/23/A3/wKgJoVpTQGmAe207ABDAau3OC4Q750.m4a
+2018-10-11 15:09:17,173 __main__- INFO - done
+2018-10-11 15:09:17,173 __main__- INFO - start download 子守呗.m4a url=http://audio.xmcdn.com/group36/M02/BC/FF/wKgJUlpA0D-jNGR1ABylqSMAA7E078.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:09:17,175 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 子守呗.m4a http://audio.xmcdn.com/group36/M02/BC/FF/wKgJUlpA0D-jNGR1ABylqSMAA7E078.m4a
+2018-10-11 15:13:29,312 __main__- INFO - done
+2018-10-11 15:13:29,313 __main__- INFO - start download Moody Afternoon.m4a url=http://audio.xmcdn.com/group36/M04/4F/9E/wKgJUlouV42xC4R-AF5vH6vsbac345.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:13:29,313 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Moody Afternoon.m4a http://audio.xmcdn.com/group36/M04/4F/9E/wKgJUlouV42xC4R-AF5vH6vsbac345.m4a
+2018-10-11 15:13:59,028 __main__- INFO - done
+2018-10-11 15:13:59,028 __main__- INFO - start download Along Peaceful Shores.m4a url=http://audio.xmcdn.com/group35/M08/3E/78/wKgJnFoX86Tz1xeSACxXSRCKsj0373.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:13:59,029 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O Along Peaceful Shores.m4a http://audio.xmcdn.com/group35/M08/3E/78/wKgJnFoX86Tz1xeSACxXSRCKsj0373.m4a
+2018-10-11 15:14:32,986 __main__- INFO - done
+2018-10-11 15:14:32,987 __main__- INFO - start download hideyuki hashimoto - tsuki.m4a url=http://audio.xmcdn.com/group34/M0B/3B/2A/wKgJYVnxrOPz53ZkABEvuWFah8M407.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:14:32,987 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O hideyuki hashimoto - tsuki.m4a http://audio.xmcdn.com/group34/M0B/3B/2A/wKgJYVnxrOPz53ZkABEvuWFah8M407.m4a
+2018-10-11 15:15:09,824 __main__- INFO - done
+2018-10-11 15:15:09,825 __main__- INFO - start download hideyuki hashimoto - kara kara.m4a url=http://audio.xmcdn.com/group34/M07/5F/04/wKgJYVngesejhjWpAAuSIIJRGfE487.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:15:09,826 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O hideyuki hashimoto - kara kara.m4a http://audio.xmcdn.com/group34/M07/5F/04/wKgJYVngesejhjWpAAuSIIJRGfE487.m4a
+2018-10-11 15:15:39,819 __main__- INFO - done
+2018-10-11 15:15:39,819 __main__- INFO - start download 音乐问答 Melodic questions and answers.m4a url=http://audio.xmcdn.com/group32/M08/9B/0E/wKgJnFm58hPy4H8IACD9Qb3Kp3Y214.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:15:39,822 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 音乐问答 Melodic questions and answers.m4a http://audio.xmcdn.com/group32/M08/9B/0E/wKgJnFm58hPy4H8IACD9Qb3Kp3Y214.m4a
+2018-10-11 15:16:20,147 __main__- INFO - done
+2018-10-11 15:16:20,148 __main__- INFO - start download 可爱的雷鬼旋律 Baby’s lovely reggae.m4a url=http://audio.xmcdn.com/group31/M00/A9/9A/wKgJX1mua83jzlo9ABmA9CMm8r0169.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:16:20,150 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 可爱的雷鬼旋律 Baby’s lovely reggae.m4a http://audio.xmcdn.com/group31/M00/A9/9A/wKgJX1mua83jzlo9ABmA9CMm8r0169.m4a
+2018-10-11 15:16:45,853 __main__- INFO - done
+2018-10-11 15:16:45,853 __main__- INFO - start download  Lovely Little Night Music.m4a url=http://audio.xmcdn.com/group15/M06/7C/5A/wKgDZVYOmjrgAQ05ABomT2i1BEY886.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:16:45,853 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O  Lovely Little Night Music.m4a http://audio.xmcdn.com/group15/M06/7C/5A/wKgDZVYOmjrgAQ05ABomT2i1BEY886.m4a
+2018-10-11 15:17:08,705 __main__- INFO - done
+2018-10-11 15:17:08,705 __main__- INFO - start download hideyuki hashimoto - yura yura.m4a url=http://audio.xmcdn.com/group30/M05/F0/5F/wKgJXll-25bhbcaeAA2-qlvRavE403.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:17:08,706 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O hideyuki hashimoto - yura yura.m4a http://audio.xmcdn.com/group30/M05/F0/5F/wKgJXll-25bhbcaeAA2-qlvRavE403.m4a
+2018-10-11 15:17:46,068 __main__- INFO - done
+2018-10-11 15:17:46,068 __main__- INFO - start download いろのみ - 雫.m4a url=http://audio.xmcdn.com/group31/M0B/C2/E6/wKgJSVl610ayzE_ZADPrFmCZXLs361.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:17:46,070 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O いろのみ - 雫.m4a http://audio.xmcdn.com/group31/M0B/C2/E6/wKgJSVl610ayzE_ZADPrFmCZXLs361.m4a
+2018-10-11 15:18:22,073 __main__- INFO - done
+2018-10-11 15:18:22,073 __main__- INFO - start download hideyuki hashimoto - ki.m4a url=http://audio.xmcdn.com/group29/M02/FB/BF/wKgJWVljPRnj_Rm-AA6cZd-7iGQ628.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:18:22,073 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O hideyuki hashimoto - ki.m4a http://audio.xmcdn.com/group29/M02/FB/BF/wKgJWVljPRnj_Rm-AA6cZd-7iGQ628.m4a
+2018-10-11 15:18:54,991 __main__- INFO - done
+2018-10-11 15:18:54,991 __main__- INFO - start download 第一次听见海 First time I hear the sea.m4a url=http://audio.xmcdn.com/group29/M01/78/B6/wKgJWVlaBpDhezMlACvdaXm1BF8080.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:18:54,993 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 第一次听见海 First time I hear the sea.m4a http://audio.xmcdn.com/group29/M01/78/B6/wKgJWVlaBpDhezMlACvdaXm1BF8080.m4a
+2018-10-11 15:19:35,037 __main__- INFO - done
+2018-10-11 15:19:35,038 __main__- INFO - start download 丛林漫步.m4a url=http://audio.xmcdn.com/group28/M09/34/64/wKgJSFlUmDDDQNzoABVfrt5fxwg778.m4a outdir=宝宝的异想世界系列
+2018-10-11 15:19:35,041 __main__- INFO - you-get --debug -o 宝宝的异想世界系列 -O 丛林漫步.m4a http://audio.xmcdn.com/group28/M09/34/64/wKgJSFlUmDDDQNzoABVfrt5fxwg778.m4a

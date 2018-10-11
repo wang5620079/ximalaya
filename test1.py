@@ -21,8 +21,6 @@ logger.addHandler(ch)
 logger.addHandler(fh)
 
 txt=open('url.txt')
-
-
 with open('url.txt','r') as file:
     url=file.read()
 
@@ -48,7 +46,17 @@ def newgetHtml(url,postDataList=None,pdata=None,headers=None):
     return page
 
 
-def parsemeta(htmldata):
+def parsemeta():
+    if not os.path.exists('url.txt'):
+        logger.error('url.txt文件不存在')
+        raise Exception('url.txt文件不存在')
+    with open('url.txt', 'r') as file:
+        url = file.read()
+    if not url.endswith('/'):
+        url = url + '/'
+    strlst = url.split('/')
+    id=strlst[-2]
+    htmldata = newgetHtml(url=url)
     soup = BeautifulSoup(htmldata, 'html.parser')
     titlelst = soup.select('.o77S .title')
     title=titlelst[0].text
@@ -57,16 +65,13 @@ def parsemeta(htmldata):
             os.makedirs(title)
     except Exception as e:
         logger.error(str(e))
-
+    outdir = title
+    logger.info('outdir={}'.format(outdir))
     lst= soup.select('div .dOi2 .head > h2')
-    print(lst[0].text)
-    cntstr=lst[0].text
-    print(cntstr[-4:-1])
-    # cnt=int(lst[0].text[-4,-2])
-    # print(cnt)
-    pass
+    cnt=int(lst[0].text[-4:-1])
+    logger.info('cnt={}'.format(cnt))
+    return id,outdir,cnt
 
 
 if __name__=='__main__':
-    htmldata=newgetHtml(url='https://www.ximalaya.com/yinyue/364431/')
-    parsemeta(htmldata)
+    parsemeta()
