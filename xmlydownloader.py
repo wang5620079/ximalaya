@@ -1,12 +1,17 @@
 #coding=utf-8
 # -*- coding: utf-8 -*-
 
-import logging,time,os
-import requests,json,re
-from bs4 import BeautifulSoup
+import platform
+import logging
+import os
+import time
 from http import cookiejar
 
-#系统配置
+import json
+import re
+import requests
+from bs4 import BeautifulSoup
+
 import config
 
 """
@@ -87,7 +92,7 @@ def parseUrls():
         raise Exception('url配置文件不存在')
     #按行读取配置文件
     lines=[]
-    with open(config.urlsconfig,'r',encoding='utf-8') as file:
+    with open(config.urlsconfig, 'r', encoding='utf-8') as file:
         for line in file:
             linstr=line.strip()
             if len(linstr)>0:
@@ -146,11 +151,6 @@ def parsejson(jsonstr):
             fname=trackName
         #去掉括号等的异常字符
         fname=re.sub(':|：|\(|（|\)|）','_',str(fname))
-        # if '(' in fname:
-        #     fname=fname.replace('(','_')
-        # if ')' in fname:
-        #     fname=fname.replace(')','_')
-        #文件名是带后缀的
         infodict[fname+'.m4a']=src
     return infodict
 
@@ -158,9 +158,15 @@ def parsejson(jsonstr):
 def cmd_download(fname,url,albumdir=None):
     try:
         if not albumdir:
-            cmdstr = r'you-get --debug -O "{}" {}'.format(fname, url)
+            if 'Windows' == platform.system():
+                cmdstr = r'you-get --debug -o {} -O "{}" {}'.format(albumdir, fname, url)
+            else:
+                cmdstr = r'/home/wp/you-get/you-get --debug -O "{}" {}'.format(fname, url)
         else:
-            cmdstr = r'you-get --debug -o {} -O "{}" {}'.format(albumdir,fname, url)
+            if 'Windows' == platform.system():
+                cmdstr = r'you-get --debug -o {} -O "{}" {}'.format(albumdir, fname, url)
+            else:
+                cmdstr = r'/home/wp/you-get/you-get --debug -o {} -O "{}" {}'.format(albumdir,fname, url)
         logger.info(cmdstr)
         info = os.system(cmdstr)
         logger.debug(info)
@@ -172,21 +178,26 @@ def cmd_download(fname,url,albumdir=None):
 def downloadAlbum(id,album,cnt):
     jsonstr = gethtml(url='https://www.ximalaya.com/revision/play/album?albumId={}&pageNum=1&sort=-1&pageSize={}'.format(id, cnt))
     downloadinfodict=parsejson(jsonstr)
-    #查看是否有与outdir同名的目录，如果要是有，则列出目录下的文件列表
-    if os.path.exists(album):
-        filelst=os.listdir(album)
-        #找出未下载的文件
+    #查看是否有与outdir同名的目录，如果要是有，则列出目录下的文件列表,路径是绝对路径
+    albumdir= config.crtdir + album
+    if os.path.exists(albumdir):
+        filelst=os.listdir(albumdir)
+        #找出已下载的文件，并存储到tnplst中，然后删除
+        tmplst=[]
         for fname in downloadinfodict.keys():
             if fname in filelst:
-                downloadinfodict.pop(fname)
-                logger.info('专辑{}的{}文件已存在，不再下载'.format(album,fname))
+                tmplst.append(fname)
+        #删除不需要下载的文件
+        for fname in tmplst:
+            downloadinfodict.pop(fname)
+        logger.info('专辑"{}"的 {} 文件已存在，不再下载'.format(album, ','.join(tmplst)))
     #如果没有专辑路径，则创建
     else:
-        os.makedirs(album)
+        os.makedirs(albumdir)
     #开始下载
     for fname,url in downloadinfodict.items():
         logger.info('start download {}'.format(fname))
-        cmd_download(fname=fname, url=url, albumdir=album)
+        cmd_download(fname=fname, url=url, albumdir=albumdir)
         logger.info('finish download {}'.format(fname))
     pass
 
@@ -200,12 +211,33 @@ def batdownloadAlbum(metainfolst):
         downloadAlbum(id,album,cnt)
         logger.info('********************批量下载完成*******************')
 
+#加锁
+def lock():
+    filepath= config.crtdir + "lock.lck"
+    lockfile = open(filepath, 'w')
+    lockfile.write(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
+    lockfile.flush()
+    lockfile.close()
 
+def unlock():
+    filepath = config.crtdir + "lock.lck"
+    if os.path.exists(filepath):
+        os.remove(filepath)
+
+def islocked():
+    filepath = config.crtdir + "lock.lck"
+    return os.path.exists(filepath)
 
 
 if __name__=='__main__':
+    if islocked():
+        print('{} 有其他进程在下载，退出！'.format(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))))
+        exit(0)
+    else:
+        lock()
     metainfolst=parseUrls()
     batdownloadAlbum(metainfolst)
+    unlock()
 
 
 
