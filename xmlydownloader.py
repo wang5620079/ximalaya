@@ -216,8 +216,18 @@ def getAlbumInfo(id,album,cnt):
 
 #下载专辑
 def downloadAlbum(id,album,cnt):
-    jsonstr = gethtml(url='https://www.ximalaya.com/revision/play/album?albumId={}&pageNum=1&sort=-1&pageSize={}'.format(id, cnt))
-    downloadinfodict=parsejson(jsonstr)
+    if cnt>500:
+        logger.info('下载文件数量大于500，分页下载！')
+        downloadinfodict = dict()
+        pagecnt=math.ceil(cnt/500)
+        logger.info('分页数{}'.format(pagecnt))
+        for pagenum in range(1,pagecnt+1):
+            jsonstr = gethtml(url='https://www.ximalaya.com/revision/play/album?albumId={}&pageNum={}&sort=-1&pageSize={}'.format(id,pagenum,500))
+            tmpdownloadinfodict=parsejson(jsonstr)
+            downloadinfodict.update(tmpdownloadinfodict)
+    else:
+        jsonstr = gethtml(url='https://www.ximalaya.com/revision/play/album?albumId={}&pageNum=1&sort=-1&pageSize={}'.format(id, cnt))
+        downloadinfodict=parsejson(jsonstr)
     #创建专辑目录
     albumdir= mkAlbumdir(album)
     #写入专辑信息json
