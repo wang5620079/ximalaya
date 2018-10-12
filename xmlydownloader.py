@@ -118,6 +118,9 @@ def parseUrls():
         soup = BeautifulSoup(htmldata, 'html.parser')
         titlelst = soup.select('.o77S .title')
         logger.info('titlelst={}'.format(str(titlelst)))
+        if len(titlelst)==0:
+            logger.error('输入的url {}  无效！'.format(url))
+            raise Exception('输入的url {}  无效！'.format(url))
         title = titlelst[0].text
         #过滤输出文件夹中的冒号，括号
         album = re.sub(':|：|\(|（|\)|）','_',str(title))
@@ -271,9 +274,13 @@ def main():
         exit(0)
     else:
         lock()
-    metainfolst=parseUrls()
-    batdownloadAlbum(metainfolst)
-    unlock()
+    try:
+        metainfolst=parseUrls()
+        batdownloadAlbum(metainfolst)
+    except Exception as e:
+        logger.error(str(e))
+    finally:
+        unlock()
 
 def test():
     metainfolst = parseUrls()
