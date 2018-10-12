@@ -5,11 +5,11 @@ import platform
 import logging
 import os
 import time
-from http import cookiejar
-
+import math
 import json
 import re
 import requests
+from http import cookiejar
 from bs4 import BeautifulSoup
 
 import config
@@ -173,27 +173,64 @@ def cmd_download(fname,url,albumdir=None):
     except Exception as e:
         logger.error(str(e))
 
+#创建专辑目录
+def mkAlbumdir(album):
+    albumdir = config.crtdir + album
+    if  not os.path.exists(albumdir):
+        os.makedirs(albumdir)
+        logger.info('make albumdir {}'.format(albumdir))
+    return albumdir
+
+#获取专辑信息
+def getAlbumInfo(id,album,cnt):
+    #先创建专辑目录
+    albumdir=mkAlbumdir(album)
+    #获取专辑信息
+    urltemplet='https://www.ximalaya.com/revision/album/getTracksList?albumId={}&pageNum='.format(id)
+    #计算有多少页
+    numtop=math.ceil(cnt/30)
+    urllst=[urltemplet+str(i) for i in range(1,numtop+1)]
+    #这里使用有序字典
+    albuminfodict=dict()
+    for urldata in urllst:
+        jsonstr = gethtml(url=urldata)
+        jsonobj = json.loads(jsonstr)
+        datalst=jsonobj['data']['tracks']
+        for data in datalst:
+            index=data['index']
+            title=data['title']
+            fname = re.sub(':|：|\(|（|\)|）', '_', str(title))+'.m4a'#文件名过滤特殊字符
+            playCount=data['playCount']
+            trackId=data['trackId']
+            url=data['url']
+            createDateFormat=data['createDateFormat']
+            albuminfodict[fname]={'fname':fname,'index':index,'playCount':playCount,'trackId':trackId,'url':url,'createDateFormat':createDateFormat}
+    #生成json字符串，并直接写入json文件中
+    jsonfilepath=albumdir+os.path.sep+'AlbumInfo.json'
+    json.dump(albuminfodict,open(jsonfilepath,'w'))
+    logger.info('write albuminfo to {}'.format(jsonfilepath))
+
 
 #下载专辑
 def downloadAlbum(id,album,cnt):
     jsonstr = gethtml(url='https://www.ximalaya.com/revision/play/album?albumId={}&pageNum=1&sort=-1&pageSize={}'.format(id, cnt))
     downloadinfodict=parsejson(jsonstr)
-    #查看是否有与outdir同名的目录，如果要是有，则列出目录下的文件列表,路径是绝对路径
-    albumdir= config.crtdir + album
-    if os.path.exists(albumdir):
-        filelst=os.listdir(albumdir)
-        #找出已下载的文件，并存储到tnplst中，然后删除
-        tmplst=[]
-        for fname in downloadinfodict.keys():
-            if fname in filelst:
-                tmplst.append(fname)
-        #删除不需要下载的文件
-        for fname in tmplst:
-            downloadinfodict.pop(fname)
-        logger.info('专辑"{}"的 {} 文件已存在，不再下载'.format(album, ','.join(tmplst)))
-    #如果没有专辑路径，则创建
-    else:
-        os.makedirs(albumdir)
+    #创建专辑目录
+    albumdir= mkAlbumdir(album)
+    #写入专辑信息json
+    getAlbumInfo(id, album, cnt)
+    # 列出目录下的文件列表,路径是绝对路径
+    filelst = os.listdir(albumdir)
+    # 找出已下载的文件，并存储到tnplst中，然后删除
+    tmplst = []
+    for fname in downloadinfodict.keys():
+        if fname in filelst:
+            tmplst.append(fname)
+    # 删除不需要下载的文件
+    for fname in tmplst:
+        downloadinfodict.pop(fname)
+    logger.info('专辑"{}"的 {} 文件已存在，不再下载'.format(album, ','.join(tmplst)))
+
     #开始下载
     for fname,url in downloadinfodict.items():
         logger.info('start download {}'.format(fname))
@@ -228,8 +265,7 @@ def islocked():
     filepath = config.crtdir + "lock.lck"
     return os.path.exists(filepath)
 
-
-if __name__=='__main__':
+def main():
     if islocked():
         print('{} 有其他进程在下载，退出！'.format(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))))
         exit(0)
@@ -239,6 +275,10 @@ if __name__=='__main__':
     batdownloadAlbum(metainfolst)
     unlock()
 
+def test():
+    metainfolst = parseUrls()
+    for id,album,cnt in metainfolst:
+        getAlbumInfo(id,album,cnt)
 
-
-
+if __name__=='__main__':
+    main()
