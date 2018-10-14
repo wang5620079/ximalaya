@@ -12,7 +12,7 @@ import requests
 from http import cookiejar
 from bs4 import BeautifulSoup
 
-import config
+from downloaderconfig import  downloaderconfig
 
 """
 喜马拉雅下载器，正式版，带下载文件扫描，文件对比，定期更新文件功能
@@ -21,7 +21,7 @@ import config
 #日志模块设置--文件日志
 # 第一步，创建一个logger
 logger = logging.getLogger()
-logger.setLevel(config.gloableloglevel)  # Log等级总开关
+logger.setLevel(downloaderconfig.gloableloglevel)  # Log等级总开关
 # 第二步，创建一个handler，用于写入日志文件
 rq = time.strftime('%Y-%m-%d', time.localtime(time.time()))
 script_path = os.path.realpath(__file__)
@@ -35,7 +35,7 @@ log_name = log_path +os.path.basename(os.path.realpath(__file__)).split('.')[0]+
 logfile = log_name
 fh = logging.FileHandler(logfile, mode='w',encoding='utf-8')
 #文件日志级别
-fh.setLevel(config.fileloglevel)
+fh.setLevel(downloaderconfig.fileloglevel)
 
 # 第三步，定义handler的输出格式
 formatter = logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s")
@@ -45,7 +45,7 @@ logger.addHandler(fh)
 
 #日志模块--控制台日志
 ch = logging.StreamHandler()
-ch.setLevel(config.consoleloglevel)
+ch.setLevel(downloaderconfig.consoleloglevel)
 ch.setFormatter(formatter)
 logger.addHandler(ch)
 
@@ -87,12 +87,12 @@ def gethtml(url):
 #url文件扫描器，扫描文件，并解析出需要的url
 def parseUrls():
     #先检测url配置文件在不在
-    if not os.path.exists(config.urlsconfig):
+    if not os.path.exists(downloaderconfig.urlsconfig):
         logger.error('url配置文件不存在')
         raise Exception('url配置文件不存在')
     #按行读取配置文件
     lines=[]
-    with open(config.urlsconfig, 'r', encoding='utf-8') as file:
+    with open(downloaderconfig.urlsconfig, 'r', encoding='utf-8') as file:
         for line in file:
             linstr=line.strip()
             if len(linstr)>0:
@@ -178,7 +178,7 @@ def cmd_download(fname,url,albumdir=None):
 
 #创建专辑目录
 def mkAlbumdir(album):
-    albumdir = config.crtdir + album
+    albumdir = downloaderconfig.workdir + album
     if  not os.path.exists(albumdir):
         os.makedirs(albumdir)
         logger.info('make albumdir {}'.format(albumdir))
@@ -263,19 +263,19 @@ def batdownloadAlbum(metainfolst):
 
 #加锁
 def lock():
-    filepath= config.crtdir + "lock.lck"
+    filepath= downloaderconfig.workdir + "lock.lck"
     lockfile = open(filepath, 'w')
     lockfile.write(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
     lockfile.flush()
     lockfile.close()
 
 def unlock():
-    filepath = config.crtdir + "lock.lck"
+    filepath = downloaderconfig.workdir + "lock.lck"
     if os.path.exists(filepath):
         os.remove(filepath)
 
 def islocked():
-    filepath = config.crtdir + "lock.lck"
+    filepath = downloaderconfig.crtdir + "lock.lck"
     return os.path.exists(filepath)
 
 def main():
