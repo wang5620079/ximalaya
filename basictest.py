@@ -3,6 +3,7 @@
 
 import math
 import platform
+import random
 
 import os
 
@@ -17,3 +18,8 @@ print(os.path.abspath(os.path.join(os.getcwd(), "..")))
 
 print('***获取上上级目录***')
 print(os.path.abspath(os.path.join(os.getcwd(), "../..")))
+
+
+
+aa=[(1,2,3),(1,3,4),(2,7,2)]
+print(random.choice(aa))

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 #下载歌曲的临时文件
-import tempfile,logging,time,os,json,re
+import tempfile,logging,time,os,json,re,random,sys
 from pathlib import Path
 from omxplayer.player import OMXPlayer
 #python访问samba服务
@@ -173,8 +173,6 @@ def playalbun(albunname,folderpath, albuminfo, filenamelst,playmode=ORDERPLAY,lo
     else:
         logger.critical('未输入循环参数！默认不循环.')
 
-    # 已经播放过的文件
-    playedlst=[]
     #如果播放模式是按照播放热度播放
     if playmode==HOTPLAY or HOTREVPLAY:
         tmplist = []
@@ -184,6 +182,9 @@ def playalbun(albunname,folderpath, albuminfo, filenamelst,playmode=ORDERPLAY,lo
         tmplist.sort(key=lambda tmp:tmp[1],reverse=playmode==HOTREVPLAY)
         #过滤无效的文件名
         playlist=[item[0] for item in tmplist if item[0] in filenamelst]
+    #如果是随机播放，则随机打乱文件列表
+    elif playmode==RAMDOMPLAY:
+        playlist = random.shuffle(filenamelst)
     else:
         # 默认播放列表是文件列表
         playlist = filenamelst
@@ -192,49 +193,42 @@ def playalbun(albunname,folderpath, albuminfo, filenamelst,playmode=ORDERPLAY,lo
     crtfile = None
     bakfile=None
     headptr=None
-    bakptr=None
     try:
         while cnt<loopn:
             if headptr==None:
-                headptr=0
-                bakptr=headptr+1
+                headptr=1
             elif headptr==len(playlist)-1:
-                bakfile=0
+                headptr = 0
                 cnt = cnt + 1
-            elif headptr==len(playlist):
-                headptr=0
-                bakptr=headptr+1
-            else:
-                bakptr=headptr+1
             #如果是刚开始播放，则开始就缓冲文件
             if crtfile == None:
-                logger.debug('i==0，开始缓冲文件{}'.format(playlist[headptr]))
+                logger.debug('i==0，开始缓冲文件{}'.format(playlist[headptr-1]))
                 crtfile=open(smbplayerconfig.tempdir+os.path.sep+'crtfile.m4a',mode='wb+')
                 # 缓冲文件远程路径
-                filepath = folderpath + os.path.sep + playlist[headptr]
+                filepath = folderpath + os.path.sep + playlist[headptr-1]
                 #缓冲文件
                 samba.retrieveFile(smbplayerconfig.servicename, filepath, crtfile)
-                logger.debug('缓冲文件 {} 完成！'.format(playlist[headptr]))
-                logger.debug('设置当前播放文件指针到文件{}'.format(playlist[headptr]))
+                logger.debug('缓冲文件 {} 完成！'.format(playlist[headptr-1]))
+                logger.debug('设置当前播放文件指针到文件{}'.format(playlist[headptr-1]))
             #开始播放当前文件
             logger.debug('开始播放')
             try:
-                logger.debug(crtfile.name)
+                logger.debug('设置当前播放文件路径{}'.format(crtfile.name))
                 filepath = Path(crtfile.name)
                 playstarttime=time.time()
                 player = OMXPlayer(filepath)
                 durtime=player.duration()
-                logger.info('开始播放文件{},文件时长{}'.format(playlist[headptr], player.duration()))
+                logger.info('开始播放文件{},文件时长{}'.format(playlist[headptr-1], player.duration()))
                 #休眠3秒钟，等待文件开始播放
                 time.sleep(3)
                 #缓冲下个文件
-                logger.debug('开始缓冲bak文件{}'.format(playlist[bakptr]))
+                logger.debug('开始缓冲bak文件{}'.format(playlist[headptr]))
                 bakfile = open(smbplayerconfig.tempdir+os.path.sep+'bakfile.m4a',mode='wb+')
                 # 缓冲文件远程路径
-                filepath = folderpath + os.path.sep + playlist[bakptr]
+                filepath = folderpath + os.path.sep + playlist[headptr]
                 samba.retrieveFile(smbplayerconfig.servicename, filepath, bakfile)
                 downloadtime=time.time()
-                logger.debug('缓冲bak文件 {} 完成！'.format(playlist[bakptr]))
+                logger.debug('缓冲bak文件 {} 完成！'.format(playlist[headptr]))
                 #等待播放完成
                 logger.debug('继续等待 {} 秒以完成播放'.format(durtime+3.0-(downloadtime-playstarttime)))
                 time.sleep(durtime+3.0-(downloadtime-playstarttime))
@@ -255,6 +249,8 @@ def playalbun(albunname,folderpath, albuminfo, filenamelst,playmode=ORDERPLAY,lo
             #         logger.error('{} 播放进程已不存在，无需杀掉进程'.format(str(e)))
             #关闭当前文件
             # crtfile.close()
+
+            #交换当前播放文件和备份文件
             crtfile,bakfile=bakfile,crtfile
             headptr=headptr+1
     except Exception as e:
@@ -276,9 +272,12 @@ def playalbun(albunname,folderpath, albuminfo, filenamelst,playmode=ORDERPLAY,lo
 
 if __name__ == '__main__':
     init()
-    allinfolst=getAllAlbumInfo()
-    albunname, folderpath, albuminfo, filenamelst = allinfolst[0]
-    playalbun(albunname, folderpath, albuminfo, filenamelst,playmode=HOTPLAY)
-
-    close()
+    try:
+        allinfolst=getAllAlbumInfo()
+        albunname, folderpath, albuminfo, filenamelst = random.choice[allinfolst]
+        playalbun(albunname, folderpath, albuminfo, filenamelst,playmode=HOTPLAY)
+    except Exception as e:
+        print(str(e))
+    finally:
+        close()
 
