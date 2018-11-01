@@ -10,6 +10,7 @@ import math
 import json
 import re
 import requests
+import random
 from http import cookiejar
 from bs4 import BeautifulSoup
 from xmlyplaylist import config as xmlyplaylistcfg
@@ -55,7 +56,7 @@ newcj = cookiejar.LWPCookieJar()
 httpsession.cookies = newcj
 
 #基础函数，获取网页
-def gethtml(url):
+def gethtml(url,timeout=1000):
     logger.info("******************************开始获取网页************************************")
     logger.info('url={}'.format(url))
     headers = {
@@ -71,7 +72,7 @@ def gethtml(url):
 
     try:
         res=None
-        res = httpsession.get(url, headers=headers)
+        res =requests.get(url, headers=headers,timeout=timeout)
     except Exception as e:
         logger.error('Error code:', str(e))
     if res==None:
@@ -114,7 +115,8 @@ def parseUrls():
             id=strlst[-1]
         htmldata = gethtml(url=url)
         soup = BeautifulSoup(htmldata, 'html.parser')
-        titlelst = soup.select('.o77S .title')
+        # titlelst = soup.select('div .info .PIuT > h1 .PIuT')
+        titlelst = soup.select('h1.title.PIuT')
         logger.info('titlelst={}'.format(str(titlelst)))
         if len(titlelst)==0:
             logger.error('输入的url {}  无效！'.format(url))
@@ -126,7 +128,7 @@ def parseUrls():
         album = re.sub(' ', '', str(album))
 
         logger.info('make album {}'.format(album))
-        lst = soup.select('div .dOi2 .head > h2')
+        lst = soup.select('h2.rC5T')
         cntstrlst = re.findall(r'\d+',str(lst[0].text))
         cnt=int(cntstrlst[0])
         logger.info('cnt={}'.format(cnt))
@@ -140,7 +142,7 @@ def parsejson(jsonstr):
         return None
     jsonobj=json.loads(jsonstr)
     datalst=jsonobj['data']['tracksAudioPlay']
-    print(len(datalst))
+    # print(len(datalst))
     infodict=dict()
     for datadict in datalst:
         trackName=datadict['trackName']
@@ -193,7 +195,11 @@ def getAlbumInfo(id,album,cnt):
     urllst=[urltemplet+str(i) for i in range(1,numtop+1)]
     albuminfodict=dict()
     for urldata in urllst:
-        jsonstr = gethtml(url=urldata)
+        try:
+            jsonstr = gethtml(url=urldata)
+        except Exception as e:
+            logger.exception(e)
+            continue
         jsonobj = json.loads(jsonstr)
         datalst=jsonobj['data']['tracks']
         for data in datalst:
@@ -209,43 +215,57 @@ def getAlbumInfo(id,album,cnt):
     jsonfilepath=albumdir+os.path.sep+'AlbumInfo.json'
     json.dump(albuminfodict,open(jsonfilepath,'w'))
     logger.info('write albuminfo to {}'.format(jsonfilepath))
+    return albuminfodict
 
 
 #生成播放列表专辑
 def downloadAlbum(id,album,cnt):
-    if cnt>500:
-        logger.info('生成播放列表文件数量大于500，分页生成播放列表！')
-        downloadinfodict = dict()
-        pagecnt=math.ceil(cnt/500)
-        logger.info('分页数{}'.format(pagecnt))
-        for pagenum in range(1,pagecnt+1):
-            jsonstr = gethtml(url='https://www.ximalaya.com/revision/play/album?albumId={}&pageNum={}&sort=-1&pageSize={}'.format(id,pagenum,500))
-            tmpdownloadinfodict=parsejson(jsonstr)
-            downloadinfodict.update(tmpdownloadinfodict)
-    else:
-        jsonstr = gethtml(url='https://www.ximalaya.com/revision/play/album?albumId={}&pageNum=1&sort=-1&pageSize={}'.format(id, cnt))
-        downloadinfodict=parsejson(jsonstr)
-    #创建专辑目录
-    albumdir= mkAlbumdir(album)
-    #写入专辑信息json
-    getAlbumInfo(id, album, cnt)
-    # 列出目录下的文件列表,路径是绝对路径
-    filelst = os.listdir(albumdir)
-    # 找出已生成播放列表的文件，并存储到tnplst中，然后删除
-    tmplst = []
-    for fname in downloadinfodict.keys():
-        if fname in filelst:
-            tmplst.append(fname)
-    # 删除不需要生成播放列表的文件
-    for fname in tmplst:
-        downloadinfodict.pop(fname)
-    logger.info('专辑"{}"的 {} 文件已存在，不再生成播放列表'.format(album, ','.join(tmplst)))
-
-    #开始生成播放列表
+    logger.info('生成播放列表文件！')
+    downloadinfodict = dict()
+    pagecnt = math.ceil(cnt / 30)
+    logger.info('分页数{}'.format(pagecnt))
+    for pagenum in range(1, pagecnt + 1):
+        try:
+            jsonstr = gethtml(url='https://www.ximalaya.com/revision/play/album?albumId={}&pageNum={}&sort=-1&pageSize={}'.format(id,pagenum,30),timeout=5000)
+        except Exception as  e:
+            logger.exception(e)
+            continue
+        tmpdownloadinfodict = parsejson(jsonstr)
+        downloadinfodict.update(tmpdownloadinfodict)
+    # 写入专辑信息json
+    albuminfodict=getAlbumInfo(id, album, cnt)
     for fname,url in downloadinfodict.items():
-        logger.info('start download {}'.format(fname))
-        cmd_download(fname=fname, url=url, albumdir=albumdir)
-        logger.info('finish download {}'.format(fname))
+        if fname in albuminfodict:
+            albuminfodict[fname]['downloadurl']=url
+    tmplst=[]
+    for fname in albuminfodict.keys():
+        if 'downloadurl' in albuminfodict[fname]:
+            tmplst.append((fname,albuminfodict[fname]['index'],albuminfodict[fname]['playCount'],albuminfodict[fname]['downloadurl']))
+    #生成按照index排序的列表
+    tmplst.sort(key=lambda ele:ele[1],reverse=True)
+    logger.debug("按照index排序的列表为 {}".format(tmplst))
+    lines=[]
+    for item in tmplst:
+        lines.append('"{}" {}\n'.format(item[0], item[3]))
+    with open(xmlyplaylistcfg.crtdir+album+'_idx.lst','w',encoding='utf-8') as file:
+        file.writelines(lines)
+
+    # 生成按照playcount排序的列表
+    tmplst.sort(key=lambda ele: ele[2], reverse=True)
+    logger.debug("按照playcount排序的列表为 {}".format(tmplst))
+    lines = []
+    for item in tmplst:
+        lines.append('"{}" {}\n'.format(item[0], item[3]))
+    with open(xmlyplaylistcfg.crtdir + album + '_playcount.lst', 'w',encoding='utf-8') as file:
+        file.writelines(lines)
+    # 生成按照随机排序的列表
+    random.shuffle(tmplst)
+    logger.debug("按照随机排序的列表为 {}".format(tmplst))
+    lines = []
+    for item in tmplst:
+        lines.append('"{}" {}\n'.format(item[0], item[3]))
+    with open(xmlyplaylistcfg.crtdir + album + '_random.lst', 'w', encoding='utf-8') as file:
+        file.writelines(lines)
     pass
 
 #批量生成播放列表
@@ -277,7 +297,7 @@ def islocked():
 
 def main():
     if islocked():
-        print('{} 有其他进程在生成播放列表，退出！'.format(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))))
+        logger.info('{} 有其他进程在生成播放列表，退出！'.format(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))))
         exit(0)
     else:
         lock()
@@ -291,8 +311,8 @@ def main():
 
 def test():
     metainfolst = parseUrls()
-    for id,album,cnt in metainfolst:
-        getAlbumInfo(id,album,cnt)
+    batdownloadAlbum(metainfolst)
 
 if __name__=='__main__':
+    # test()
     main()

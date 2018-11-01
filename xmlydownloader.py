@@ -291,11 +291,11 @@ def main():
         logger.error(str(e))
     finally:
         unlock()
-
-def test():
-    metainfolst = parseUrls()
-    for id,album,cnt in metainfolst:
-        getAlbumInfo(id,album,cnt)
+#
+# def test():
+#     metainfolst = parseUrls()
+#     for id,album,cnt in metainfolst:
+#         getAlbumInfo(id,album,cnt)
 
 if __name__=='__main__':
     main()
